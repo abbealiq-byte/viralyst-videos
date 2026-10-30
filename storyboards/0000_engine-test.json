@@ -1,0 +1,10 @@
+{"title":"engine test","speed":1.15,"scenes":[
+ {"type":"text","say":"Engine test one.","crown":true,"lines":[{"t":"ENGINE TEST","color":"white"},{"t":"IT WORKS","color":"yellow","pop":true,"at":0.5}]},
+ {"type":"counter","say":"Counting up.","heading":"COUNTER","prefix":"$","value":6.3,"decimals":1,"suffix":"B","label":"stolen","stopwatch":true},
+ {"type":"bars","say":"Bars compare.","heading":"RECORDS","items":[{"label":"Bybit","value":1.5,"show":"$1.5B","color":"grey"},{"label":"Binance","value":6.3,"show":"$6.3B","color":"pink"}],"sub":"4x BIGGER"},
+ {"type":"icon","say":"A laptop.","icon":"laptop","lines":[{"t":"ONE LAPTOP","color":"yellow"}]},
+ {"type":"stamps","say":"Stamps.","heading":"STAMPS","items":[{"t":"RULES","color":"cyan"},{"t":"PERMITS","color":"yellow","at":0.6}]},
+ {"type":"dots","say":"Dots.","heading":"VOTE","total":12,"cols":4,"shape":"circle","highlight":2,"highlight_color":"pink","label":"10 held, 2 hike"},
+ {"type":"calendar","say":"Calendar.","heading":"WHEN","month":"DEC","day":18,"lines":[{"t":"ONE LAST TIME","color":"yellow"}]},
+ {"type":"buttons","say":"Yes or no?","lines":[{"t":"YES OR NO?","color":"yellow"}],"options":["YES","NO"]}
+]}
