@@ -137,14 +137,22 @@ def md(r):
     return '\n'.join(L) + '\n'
 
 if __name__ == '__main__':
-    if not KEY: raise SystemExit('YOUTUBE_API_KEY missing')
     done = 0
     for req in sorted(glob.glob(os.path.join(ROOT, 'scans', 'requests', '*.txt'))):
         name = os.path.splitext(os.path.basename(req))[0]
         out = os.path.join(ROOT, 'scans', 'results', name + '.json')
-        if os.path.exists(out): continue
+        if os.path.exists(out) or os.path.exists(out[:-5] + ".error.txt"): continue
         units = 0
-        r = scan(open(req).read().strip())
+        try:
+            if not KEY: raise RuntimeError('YOUTUBE_API_KEY secret is missing or empty in GitHub')
+            r = scan(open(req).read().strip())
+        except Exception as e:
+            body = ''
+            if hasattr(e, 'read'):
+                try: body = e.read().decode()[:1500]
+                except Exception: pass
+            open(out[:-5] + '.error.txt', 'w').write(f'{type(e).__name__}: {e}\n{body}\n')
+            print('scan failed', name, e); continue
         json.dump(r, open(out, 'w'), indent=1, ensure_ascii=False)
         open(out[:-5] + '.md', 'w').write(md(r))
         print(f"scanned {name}: {r['channel']['title']} ({r['summary']['videos_scanned']} videos, {r['quota_units_used']} units)")
