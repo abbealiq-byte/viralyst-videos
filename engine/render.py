@@ -6,6 +6,7 @@ import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
 W, H, FPS = 1080, 1920, 30
+SHIFT = 190  # move scene content toward the vertical centre
 HERE = os.path.dirname(os.path.abspath(__file__))
 FB = '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'
 FR = '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'
@@ -274,8 +275,7 @@ TYPES={'text':s_text,'quote':s_quote,'counter':s_counter,'dots':s_dots,'list':s_
 def chrome(dr,t,total,hide_until):
     dr.rectangle([0,0,W,10],fill=(18,29,60)); dr.rectangle([0,0,int(W*t/total),10],fill=CY)
     if t<hide_until: return
-    dr.rounded_rectangle([55,97,420,167],radius=16,fill=DARK); ctext(dr,"VIRALYST",F(46),132,WH,237)
-    dr.rounded_rectangle([55,176,420,222],radius=10,fill=PK); ctext(dr,"TRENDS, EXPLAINED",F(26),199,WH,237)
+    dr.rounded_rectangle([55,97,345,159],radius=16,fill=DARK); ctext(dr,"VIRALYST",F(42),128,WH,200)
 
 def voice(scenes,speed,out_wav,models):
     from kokoro_onnx import Kokoro
@@ -303,6 +303,7 @@ def render(sb_path,out_mp4,models=None):
         t=n/FPS; i=max(j for j in range(len(times)) if times[j][0]<=t+1e-6); lt=t-times[i][0]
         img=base.copy(); dr=ImageDraw.Draw(img); sc=scenes[i]
         TYPES[sc.get('type','text')](dr,img,sc,lt,times[i][1]-times[i][0])
+        shifted=base.copy(); shifted.paste(img.crop((0,0,W,H-SHIFT)),(0,SHIFT)); img=shifted
         dr=ImageDraw.Draw(img); chrome(dr,t,total,hide)
         proc.stdin.write(img.tobytes())
     proc.stdin.close(); proc.wait(); os.remove(wav)
