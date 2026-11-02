@@ -1,0 +1,9 @@
+{"title":"Mariah Carey defrosted as a punk","speed":1.12,"hide_brand_on_hook":true,"scenes":[
+ {"type":"text","say":"Mariah Carey just defrosted for Christmas. But this year, she came back as a punk.","y":560,"lines":[{"t":"MARIAH CAREY","color":"white","size":96},{"t":"DEFROSTED\u2026","color":"cyan","size":96,"at":0.6},{"t":"AS A PUNK?!","color":"pink","size":120,"pop":true,"at":2.6}]},
+ {"type":"calendar","say":"Every November first, she drops her famous 'It's time' video.","heading":"EVERY YEAR","month":"NOV","day":1,"color":"cyan","lines":[{"t":"\u201cIT'S TIME!\u201d","color":"yellow","size":96}]},
+ {"type":"counter","say":"Fans joke that she's been frozen in ice all year, and count down to the thaw.","top":"FROZEN FOR","value":364,"suffix":" DAYS","label":"according to the internet","color":"cyan","count_time":1.4},
+ {"type":"stamps","say":"But this year: a red wig, fishnets, and dark lipstick.","heading":"THIS YEAR","items":[{"t":"RED WIG","color":"pink","at":0.5},{"t":"FISHNETS","color":"yellow","at":1.2},{"t":"DARK LIPSTICK","color":"cyan","at":1.9}]},
+ {"type":"text","say":"And it opens with a rock song almost nobody had ever heard.","heading":"THE SONG","y":560,"lines":[{"t":"?","color":"yellow","size":260,"pop":true},{"t":"A ROCK SONG","color":"white","size":84,"at":0.8},{"t":"NOBODY KNEW","color":"white","size":84,"at":1.2}]},
+ {"type":"stamps","say":"Why? It's from a secret band she had in the nineties. She only admitted it in her memoir.","heading":"THE TWIST","items":[{"t":["SECRET","90s BAND"],"color":"pink","at":0.9}],"y":700,"sub":"revealed in her 2020 memoir","sub_y":1050,"sub_at":2.6,"pause":0.6},
+ {"type":"buttons","say":"Iconic, or too much?","lines":[{"t":"ICONIC","color":"white","size":96},{"t":"OR TOO MUCH?","color":"yellow","size":96}],"options":["ICONIC","TOO MUCH"],"hold":1.5}
+]}
