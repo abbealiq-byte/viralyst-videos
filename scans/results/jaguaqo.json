@@ -1,0 +1,2097 @@
+{
+ "scanned_at": "2026-11-02T13:06:31.320254+00:00",
+ "request": "https://www.youtube.com/@Jaguaqo3Danimations",
+ "quota_units_used": 9,
+ "channel": {
+  "id": "UC1c8cSiP7u4oq2j-SRbc8Ww",
+  "title": "Jaguaqo",
+  "handle": "@jaguaqo3danimations",
+  "created": "2025-11-13T06:41:09.403956Z",
+  "country": "US",
+  "description": "I create unique 3D animations, visual stories, and interesting comparisons. Turning crazy ideas into reality.\n\n🚀 Subscribe for high-quality CGI shorts and videos!\n",
+  "subscribers": 78100,
+  "total_views": 119597366,
+  "video_count": 40
+ },
+ "summary": {
+  "videos_scanned": 40,
+  "median_views_all": 56424.5,
+  "median_views_recent50": 56424.5,
+  "shorts": {
+   "count": 40,
+   "median_views": 56424.5
+  },
+  "long_form": {
+   "count": 0,
+   "median_views": 0
+  },
+  "uploads_last_30_days": 5,
+  "publish_weekday_utc": {
+   "Sat": 8,
+   "Mon": 9,
+   "Thu": 11,
+   "Tue": 1,
+   "Fri": 6,
+   "Wed": 2,
+   "Sun": 3
+  },
+  "publish_hour_utc": {
+   "17": 5,
+   "11": 13,
+   "19": 2,
+   "8": 1,
+   "10": 2,
+   "13": 3,
+   "14": 2,
+   "18": 2,
+   "12": 5,
+   "15": 1,
+   "16": 1,
+   "20": 3
+  }
+ },
+ "top10_all_time": [
+  {
+   "id": "bGER0fbKXag",
+   "title": "The Soviet Kids' Knife Game",
+   "published": "2026-06-19T11:45:12Z",
+   "weekday_utc": "Fri",
+   "hour_utc": 11,
+   "age_days": 136,
+   "duration_s": 48,
+   "short": true,
+   "views": 25731464,
+   "likes": 695996,
+   "comments": 2368,
+   "tags": [],
+   "description": "",
+   "views_per_day": 189201.9,
+   "vs_median": 456.03,
+   "like_rate_pct": 2.7,
+   "vs_recent_median": 456.03,
+   "top_comments": [
+    {
+     "text": "FAQ about the game:\nWhat is this game called?\nIt’s a real Soviet-era street game called \"Nozhichki\" (Little Knives). This specific version is \"Sea Battle\". There is no official source, kids just passed it down in the streets!\nHow many points to win?\nPlayers usually agree on a target like 50 or 100 p",
+     "likes": 5230
+    },
+    {
+     "text": "\"If the blade lands in the oppenent you automatically win\"",
+     "likes": 1893
+    },
+    {
+     "text": "Instructions unclear I end up in the hospital",
+     "likes": 33234
+    },
+    {
+     "text": "I’m pretty sure you also win if the knife hits the opponent",
+     "likes": 7530
+    },
+    {
+     "text": "This actually sounds like a fun game to play with the boys. I already do knife tricks",
+     "likes": 22
+    },
+    {
+     "text": "All shits and giggles till the blade hits your neck. Instant win",
+     "likes": 3559
+    },
+    {
+     "text": "New bottle flipping teck",
+     "likes": 3931
+    },
+    {
+     "text": "Of course it’s a Soviet kid game\n\n\nThank you for 3000 likes",
+     "likes": 6371
+    },
+    {
+     "text": "Я играл в эту игру в детстве. В нее играли на скамье из обычной доски некрашенной.\nЕсли нож втыкался но ручка не касалась доски под нее подставляли пальцы - чем больше пальцев тем больше очков.",
+     "likes": 467
+    },
+    {
+     "text": "Humans will do anything but call it “1 point - 10 points”",
+     "likes": 1
+    },
+    {
+     "text": "I love the detail of actually using Soviet  vessels",
+     "likes": 218
+    },
+    {
+     "text": "My childhood friend from Russia taught me this. We played all the time. It was crazy to me that his parents let us play with knives like this. You definitely get poked at some point.",
+     "likes": 135
+    },
+    {
+     "text": "*And for actual last, if the knife hits the opponent's dih, that was a Super-Dreadnought, scoring you 150 million power in rise of kingdoms 2!*",
+     "likes": 468
+    },
+    {
+     "text": "You forgot the nuclear submarine when the blade goes in at a 60 degree angle, when this happens 3 ICBMs are launched directly at the player's exact location and the game ends.",
+     "likes": 1
+    },
+    {
+     "text": "So Russians play with knives as kids. That explains a lot",
+     "likes": 2
+    }
+   ],
+   "transcript": null
+  },
+  {
+   "id": "WREE9racUII",
+   "title": "Invisible Growth",
+   "published": "2025-12-08T17:01:30Z",
+   "weekday_utc": "Mon",
+   "hour_utc": 17,
+   "age_days": 328,
+   "duration_s": 30,
+   "short": true,
+   "views": 22200256,
+   "likes": 524764,
+   "comments": 1009,
+   "tags": [],
+   "description": "",
+   "views_per_day": 67683.7,
+   "vs_median": 393.45,
+   "like_rate_pct": 2.36,
+   "vs_recent_median": 393.45,
+   "top_comments": [
+    {
+     "text": "I know 80ft sounds crazy, but it’s real! 🤯 It’s a species called \"Moso Bamboo\". Look it up, you won’t regret it.",
+     "likes": 585
+    },
+    {
+     "text": "99% of growers quit before they even see their bamboo grow",
+     "likes": 9417
+    },
+    {
+     "text": "That's quite the solid bamboo growth if it grows invisibly",
+     "likes": 9613
+    },
+    {
+     "text": "Invisible?\nLike..\nNo one hears a word",
+     "likes": 3055
+    },
+    {
+     "text": "Metal slug general laugh😮",
+     "likes": 826
+    },
+    {
+     "text": "This also teaches us about patience \nWhich most of us really don't have",
+     "likes": 645
+    },
+    {
+     "text": "imagine if jealous neighbour dug it up and you keep watering it for years expecting it to grow",
+     "likes": 105
+    },
+    {
+     "text": "Lesson:  Work hard in silence, let success make the noise.",
+     "likes": 20
+    },
+    {
+     "text": "Life lesson\nProgress takes time.",
+     "likes": 96
+    },
+    {
+     "text": "*There's a cruel punishment/execution method in ancient China that involves bamboo. The prisoners are tied flat on soil and placed directly above a growing bamboo. The growing bamboos then pierce through bodies impaling them, executing in a painful way*",
+     "likes": 2
+    },
+    {
+     "text": "What if someone stoles that bamabo and you stayed for 4 years😂",
+     "likes": 26
+    },
+    {
+     "text": "I think I have read that fact in a book called 'Atomic Habits' \nGreat book by the way. :)",
+     "likes": 2
+    },
+    {
+     "text": "To know ur success is great u don't need constant great results..",
+     "likes": 30
+    },
+    {
+     "text": "Moral of the story : Keep gambling",
+     "likes": 7
+    },
+    {
+     "text": "The old man laugh makes me give up 😂",
+     "likes": 10
+    }
+   ],
+   "transcript": null
+  },
+  {
+   "id": "mxKtcUgYk1g",
+   "title": "The Craziest Hidden Gun",
+   "published": "2026-09-19T11:38:32Z",
+   "weekday_utc": "Sat",
+   "hour_utc": 11,
+   "age_days": 44,
+   "duration_s": 27,
+   "short": true,
+   "views": 15719913,
+   "likes": 289688,
+   "comments": 1970,
+   "tags": [],
+   "description": "",
+   "views_per_day": 357270.8,
+   "vs_median": 278.6,
+   "like_rate_pct": 1.84,
+   "vs_recent_median": 278.6,
+   "top_comments": [
+    {
+     "text": "I first saw this gun in a Robert Rodriguez movie. The man’s a true action master. Much respect, Robert. \nHope you guys aren’t planning on trying this at home😎",
+     "likes": 1957
+    },
+    {
+     "text": "The recoil must be crazy",
+     "likes": 20934
+    },
+    {
+     "text": "\"How did he die?\"\n\"He was a yoga teacher.\"",
+     "likes": 1266
+    },
+    {
+     "text": "Pistol ❌\nDihstol ✅",
+     "likes": 6573
+    },
+    {
+     "text": "the GERMAN TECHNOLOGY HAVE  ALREADY out matched perfection",
+     "likes": 40
+    },
+    {
+     "text": "“How did he get killed?”\n\n“He got shot in the balls”",
+     "likes": 1569
+    },
+    {
+     "text": "This guy truly SHOT HIS  LOAD!",
+     "likes": 2547
+    },
+    {
+     "text": "\"the design is very human\"\n\nEdit: MOM IM FAMOUS",
+     "likes": 5640
+    },
+    {
+     "text": "I also have something like that! Although mine shoots something ever so slightly different.",
+     "likes": 1
+    },
+    {
+     "text": "Truly gives a new meaning to \"cocking your revolver\"",
+     "likes": 103
+    },
+    {
+     "text": "Weapon ❌ Dihhpon ✅",
+     "likes": 142
+    },
+    {
+     "text": "Standoff 2 map😂",
+     "likes": 11
+    },
+    {
+     "text": "From dusk till dawn. Iykyk",
+     "likes": 904
+    },
+    {
+     "text": "The design is very human",
+     "likes": 340
+    },
+    {
+     "text": "This design was probably made by two drunk guys in the basement",
+     "likes": 1
+    }
+   ],
+   "transcript": null
+  },
+  {
+   "id": "y3gDU-PwF7s",
+   "title": "The Brutal Samurai Legend",
+   "published": "2026-01-12T20:15:04Z",
+   "weekday_utc": "Mon",
+   "hour_utc": 20,
+   "age_days": 293,
+   "duration_s": 37,
+   "short": true,
+   "views": 10948906,
+   "likes": 197620,
+   "comments": 618,
+   "tags": [
+    "samurai",
+    "world history",
+    "japanese history"
+   ],
+   "description": "In the most brutal samurai legend ever told, a father gave his son a choice..",
+   "views_per_day": 37368.3,
+   "vs_median": 194.05,
+   "like_rate_pct": 1.8,
+   "vs_recent_median": 194.05,
+   "top_comments": [
+    {
+     "text": "Only the real ones know exactly where this scene is from...",
+     "likes": 1561
+    },
+    {
+     "text": "Definition of \"Bro woke up and chose violence\" 🗣️🔥",
+     "likes": 2056
+    },
+    {
+     "text": "My bro LITERALLY chose violence from the begining",
+     "likes": 4393
+    },
+    {
+     "text": "And that’s how Jin Sakai was born",
+     "likes": 1035
+    },
+    {
+     "text": "Anakin, you were the chosen one!!! 😂😂",
+     "likes": 384
+    },
+    {
+     "text": "*to spare him from suffering🥀*",
+     "likes": 29
+    },
+    {
+     "text": "That looks like the reference from  book of boba fet",
+     "likes": 226
+    },
+    {
+     "text": "\"That one time his father was happy\"",
+     "likes": 131
+    },
+    {
+     "text": "Bro my reaction was like \"if he chose the toy he would be sent to his mother\" hey that's not too bad \"in the spirit world😭🙏\"",
+     "likes": 1
+    },
+    {
+     "text": "Violence is not an option, it's an answer and the answer is yes.",
+     "likes": 12
+    },
+    {
+     "text": "Bro got inspired from starwars",
+     "likes": 63
+    },
+    {
+     "text": "This is the type of bros you gonna get in the future",
+     "likes": 10
+    },
+    {
+     "text": "This is deadass just ryoshūs canto",
+     "likes": 29
+    },
+    {
+     "text": "This is from lone wolf and cub I think",
+     "likes": 50
+    },
+    {
+     "text": "Thats a true warrior fr",
+     "likes": 1
+    }
+   ],
+   "transcript": null
+  },
+  {
+   "id": "C4qydYxbdMU",
+   "title": "The Secret Ninja Superfood",
+   "published": "2026-03-07T16:55:00Z",
+   "weekday_utc": "Sat",
+   "hour_utc": 16,
+   "age_days": 239,
+   "duration_s": 53,
+   "short": true,
+   "views": 8376949,
+   "likes": 319216,
+   "comments": 1536,
+   "tags": [],
+   "description": "What kept the legendary shinobi going during long, grueling missions? It wasn't magic—it was a highly advanced survival ration known as Hyourogan. How was it made, and could it really stop hunger for days?",
+   "views_per_day": 35050.0,
+   "vs_median": 148.46,
+   "like_rate_pct": 3.81,
+   "vs_recent_median": 148.46,
+   "top_comments": [
+    {
+     "text": "Modern versions of Hyorogan are still made in Japan today, and survivalists actively recreate the ancient recipe!",
+     "likes": 3905
+    },
+    {
+     "text": "The Germans made something like this to, they called it Methamphetamine\n\nEdit: It seems I have been consistently annoying history enjoyers for 13 days straight with a consistent 13 replies on average per day. So the Japanese actually invented Methamphetamine. Pervitin was what it was branded as in G",
+     "likes": 41882
+    },
+    {
+     "text": "Fun fact! \nA channel called tasting history did make this recipe, it took him 3 years just to finish it",
+     "likes": 6381
+    },
+    {
+     "text": "From what I've heard, they apparently tasted bad enough that you probably wouldn't feel like eating afterwards anyway",
+     "likes": 7626
+    },
+    {
+     "text": "A ninja can go for days, just knowing that a hyorogan is in their pouch. You only had to look at it for a moment, and instantly you can think of dozens of other things you'd rather eat. Your own boots, for example. Mountains. Raw sheep. Your own foot.",
+     "likes": 726
+    },
+    {
+     "text": "Imagine being a ninja and your cover is blown because the guards hear your stomach growl",
+     "likes": 169
+    },
+    {
+     "text": "Hunger would still be an issue. Hunger is an empty stomach, but feeling tired and weak is another thing.",
+     "likes": 97
+    },
+    {
+     "text": "\"job stars\"",
+     "likes": 11703
+    },
+    {
+     "text": "Ninja's were made popular and mystical by the media , in reality they were just normal spy that you find today .\nNot some human with excellent acrobat ability.",
+     "likes": 40
+    },
+    {
+     "text": "A YouTube chef recreated them. TLDR, they tasted so bad you wouldn’t want to eat anything for a week after lmao",
+     "likes": 29
+    },
+    {
+     "text": "The food pills from Naruto.  Kogi Nakamichi's jutsu",
+     "likes": 968
+    },
+    {
+     "text": "Job stars seem a bit bizarre",
+     "likes": 135
+    },
+    {
+     "text": "Maybe the senzu bean from dbz partially stems from this",
+     "likes": 1762
+    },
+    {
+     "text": "Jobstar❌️\nJobstear❌️\nJoestar✅️",
+     "likes": 41
+    },
+    {
+     "text": "Congratulations! You found a rare corndog with a spawn chance of 0.001 percent 🎉",
+     "likes": 10
+    }
+   ],
+   "transcript": null
+  },
+  {
+   "id": "ef9iuB4N8yE",
+   "title": "He Was About To Throw His Dad Off A Cliff... 😱",
+   "published": "2025-11-21T12:20:10Z",
+   "weekday_utc": "Fri",
+   "hour_utc": 12,
+   "age_days": 346,
+   "duration_s": 28,
+   "short": true,
+   "views": 7386987,
+   "likes": 92541,
+   "comments": 243,
+   "tags": [],
+   "description": "",
+   "views_per_day": 21349.7,
+   "vs_median": 130.92,
+   "like_rate_pct": 1.25,
+   "vs_recent_median": 130.92
+  },
+  {
+   "id": "6XMWUvXftKI",
+   "title": "Samurai vs Ninja",
+   "published": "2026-02-23T11:55:00Z",
+   "weekday_utc": "Mon",
+   "hour_utc": 11,
+   "age_days": 252,
+   "duration_s": 30,
+   "short": true,
+   "views": 5846643,
+   "likes": 152285,
+   "comments": 1185,
+   "tags": [],
+   "description": "",
+   "views_per_day": 23201.0,
+   "vs_median": 103.62,
+   "like_rate_pct": 2.6,
+   "vs_recent_median": 103.62
+  },
+  {
+   "id": "eVqIAisHQQU",
+   "title": "The Secret to the Ninja’s Impossible Jump",
+   "published": "2026-03-26T17:55:00Z",
+   "weekday_utc": "Thu",
+   "hour_utc": 17,
+   "age_days": 220,
+   "duration_s": 36,
+   "short": true,
+   "views": 4721514,
+   "likes": 167713,
+   "comments": 406,
+   "tags": [],
+   "description": "Tetsu Geta, also known as \"demon's sandals\" — the secret behind a ninja's legendary jumping ability. These were heavy iron platforms weighing between 3 and 5 kg. They were even linked by a chain to keep the legs from spreading too wide.\n\nJust walking in them was a workout, requiring intense toe grip and balance. Training in the mountains and on sand rewired the body’s biomechanics, strengthening t",
+   "views_per_day": 21461.4,
+   "vs_median": 83.68,
+   "like_rate_pct": 3.55,
+   "vs_recent_median": 83.68
+  },
+  {
+   "id": "8ONtq-FSWZM",
+   "title": "Soviet Kids Made Dangerous Toys",
+   "published": "2026-05-16T12:25:00Z",
+   "weekday_utc": "Sat",
+   "hour_utc": 12,
+   "age_days": 170,
+   "duration_s": 40,
+   "short": true,
+   "views": 4390242,
+   "likes": 109529,
+   "comments": 2366,
+   "tags": [],
+   "description": "Kids in the Soviet Union were incredibly inventive. This street game peaked in popularity from the 1970s through the late 1980s and was a staple of Soviet courtyard culture. Since commercial firecrackers were completely unavailable, kids made their own. Two heavy construction bolts were joined by a single nut. The empty space inside the nut was tightly packed with scraped matchhead powder. Finally",
+   "views_per_day": 25825.0,
+   "vs_median": 77.81,
+   "like_rate_pct": 2.49,
+   "vs_recent_median": 77.81
+  },
+  {
+   "id": "D9hGKgFt3wc",
+   "title": "Why Ninjas Carried Eggs",
+   "published": "2026-02-04T11:55:00Z",
+   "weekday_utc": "Wed",
+   "hour_utc": 11,
+   "age_days": 271,
+   "duration_s": 35,
+   "short": true,
+   "views": 3801755,
+   "likes": 113194,
+   "comments": 880,
+   "tags": [],
+   "description": "This is Metsubushi — the \"eye closer.\" Inside this hollow egg wasn't a yolk, but a blinding cocktail: crushed glass for micro-cuts, quicklime for chemical burns, and pepper for instant spasms.",
+   "views_per_day": 14028.6,
+   "vs_median": 67.38,
+   "like_rate_pct": 2.98,
+   "vs_recent_median": 67.38
+  }
+ ],
+ "top5_recent_outliers": [
+  {
+   "id": "bGER0fbKXag",
+   "title": "The Soviet Kids' Knife Game",
+   "published": "2026-06-19T11:45:12Z",
+   "weekday_utc": "Fri",
+   "hour_utc": 11,
+   "age_days": 136,
+   "duration_s": 48,
+   "short": true,
+   "views": 25731464,
+   "likes": 695996,
+   "comments": 2368,
+   "tags": [],
+   "description": "",
+   "views_per_day": 189201.9,
+   "vs_median": 456.03,
+   "like_rate_pct": 2.7,
+   "vs_recent_median": 456.03,
+   "top_comments": [
+    {
+     "text": "FAQ about the game:\nWhat is this game called?\nIt’s a real Soviet-era street game called \"Nozhichki\" (Little Knives). This specific version is \"Sea Battle\". There is no official source, kids just passed it down in the streets!\nHow many points to win?\nPlayers usually agree on a target like 50 or 100 p",
+     "likes": 5230
+    },
+    {
+     "text": "\"If the blade lands in the oppenent you automatically win\"",
+     "likes": 1893
+    },
+    {
+     "text": "Instructions unclear I end up in the hospital",
+     "likes": 33234
+    },
+    {
+     "text": "I’m pretty sure you also win if the knife hits the opponent",
+     "likes": 7530
+    },
+    {
+     "text": "This actually sounds like a fun game to play with the boys. I already do knife tricks",
+     "likes": 22
+    },
+    {
+     "text": "All shits and giggles till the blade hits your neck. Instant win",
+     "likes": 3559
+    },
+    {
+     "text": "New bottle flipping teck",
+     "likes": 3931
+    },
+    {
+     "text": "Of course it’s a Soviet kid game\n\n\nThank you for 3000 likes",
+     "likes": 6371
+    },
+    {
+     "text": "Я играл в эту игру в детстве. В нее играли на скамье из обычной доски некрашенной.\nЕсли нож втыкался но ручка не касалась доски под нее подставляли пальцы - чем больше пальцев тем больше очков.",
+     "likes": 467
+    },
+    {
+     "text": "Humans will do anything but call it “1 point - 10 points”",
+     "likes": 1
+    },
+    {
+     "text": "I love the detail of actually using Soviet  vessels",
+     "likes": 218
+    },
+    {
+     "text": "My childhood friend from Russia taught me this. We played all the time. It was crazy to me that his parents let us play with knives like this. You definitely get poked at some point.",
+     "likes": 135
+    },
+    {
+     "text": "*And for actual last, if the knife hits the opponent's dih, that was a Super-Dreadnought, scoring you 150 million power in rise of kingdoms 2!*",
+     "likes": 468
+    },
+    {
+     "text": "You forgot the nuclear submarine when the blade goes in at a 60 degree angle, when this happens 3 ICBMs are launched directly at the player's exact location and the game ends.",
+     "likes": 1
+    },
+    {
+     "text": "So Russians play with knives as kids. That explains a lot",
+     "likes": 2
+    }
+   ],
+   "transcript": null
+  },
+  {
+   "id": "WREE9racUII",
+   "title": "Invisible Growth",
+   "published": "2025-12-08T17:01:30Z",
+   "weekday_utc": "Mon",
+   "hour_utc": 17,
+   "age_days": 328,
+   "duration_s": 30,
+   "short": true,
+   "views": 22200256,
+   "likes": 524764,
+   "comments": 1009,
+   "tags": [],
+   "description": "",
+   "views_per_day": 67683.7,
+   "vs_median": 393.45,
+   "like_rate_pct": 2.36,
+   "vs_recent_median": 393.45,
+   "top_comments": [
+    {
+     "text": "I know 80ft sounds crazy, but it’s real! 🤯 It’s a species called \"Moso Bamboo\". Look it up, you won’t regret it.",
+     "likes": 585
+    },
+    {
+     "text": "99% of growers quit before they even see their bamboo grow",
+     "likes": 9417
+    },
+    {
+     "text": "That's quite the solid bamboo growth if it grows invisibly",
+     "likes": 9613
+    },
+    {
+     "text": "Invisible?\nLike..\nNo one hears a word",
+     "likes": 3055
+    },
+    {
+     "text": "Metal slug general laugh😮",
+     "likes": 826
+    },
+    {
+     "text": "This also teaches us about patience \nWhich most of us really don't have",
+     "likes": 645
+    },
+    {
+     "text": "imagine if jealous neighbour dug it up and you keep watering it for years expecting it to grow",
+     "likes": 105
+    },
+    {
+     "text": "Lesson:  Work hard in silence, let success make the noise.",
+     "likes": 20
+    },
+    {
+     "text": "Life lesson\nProgress takes time.",
+     "likes": 96
+    },
+    {
+     "text": "*There's a cruel punishment/execution method in ancient China that involves bamboo. The prisoners are tied flat on soil and placed directly above a growing bamboo. The growing bamboos then pierce through bodies impaling them, executing in a painful way*",
+     "likes": 2
+    },
+    {
+     "text": "What if someone stoles that bamabo and you stayed for 4 years😂",
+     "likes": 26
+    },
+    {
+     "text": "I think I have read that fact in a book called 'Atomic Habits' \nGreat book by the way. :)",
+     "likes": 2
+    },
+    {
+     "text": "To know ur success is great u don't need constant great results..",
+     "likes": 30
+    },
+    {
+     "text": "Moral of the story : Keep gambling",
+     "likes": 7
+    },
+    {
+     "text": "The old man laugh makes me give up 😂",
+     "likes": 10
+    }
+   ],
+   "transcript": null
+  },
+  {
+   "id": "mxKtcUgYk1g",
+   "title": "The Craziest Hidden Gun",
+   "published": "2026-09-19T11:38:32Z",
+   "weekday_utc": "Sat",
+   "hour_utc": 11,
+   "age_days": 44,
+   "duration_s": 27,
+   "short": true,
+   "views": 15719913,
+   "likes": 289688,
+   "comments": 1970,
+   "tags": [],
+   "description": "",
+   "views_per_day": 357270.8,
+   "vs_median": 278.6,
+   "like_rate_pct": 1.84,
+   "vs_recent_median": 278.6,
+   "top_comments": [
+    {
+     "text": "I first saw this gun in a Robert Rodriguez movie. The man’s a true action master. Much respect, Robert. \nHope you guys aren’t planning on trying this at home😎",
+     "likes": 1957
+    },
+    {
+     "text": "The recoil must be crazy",
+     "likes": 20934
+    },
+    {
+     "text": "\"How did he die?\"\n\"He was a yoga teacher.\"",
+     "likes": 1266
+    },
+    {
+     "text": "Pistol ❌\nDihstol ✅",
+     "likes": 6573
+    },
+    {
+     "text": "the GERMAN TECHNOLOGY HAVE  ALREADY out matched perfection",
+     "likes": 40
+    },
+    {
+     "text": "“How did he get killed?”\n\n“He got shot in the balls”",
+     "likes": 1569
+    },
+    {
+     "text": "This guy truly SHOT HIS  LOAD!",
+     "likes": 2547
+    },
+    {
+     "text": "\"the design is very human\"\n\nEdit: MOM IM FAMOUS",
+     "likes": 5640
+    },
+    {
+     "text": "I also have something like that! Although mine shoots something ever so slightly different.",
+     "likes": 1
+    },
+    {
+     "text": "Truly gives a new meaning to \"cocking your revolver\"",
+     "likes": 103
+    },
+    {
+     "text": "Weapon ❌ Dihhpon ✅",
+     "likes": 142
+    },
+    {
+     "text": "Standoff 2 map😂",
+     "likes": 11
+    },
+    {
+     "text": "From dusk till dawn. Iykyk",
+     "likes": 904
+    },
+    {
+     "text": "The design is very human",
+     "likes": 340
+    },
+    {
+     "text": "This design was probably made by two drunk guys in the basement",
+     "likes": 1
+    }
+   ],
+   "transcript": null
+  },
+  {
+   "id": "y3gDU-PwF7s",
+   "title": "The Brutal Samurai Legend",
+   "published": "2026-01-12T20:15:04Z",
+   "weekday_utc": "Mon",
+   "hour_utc": 20,
+   "age_days": 293,
+   "duration_s": 37,
+   "short": true,
+   "views": 10948906,
+   "likes": 197620,
+   "comments": 618,
+   "tags": [
+    "samurai",
+    "world history",
+    "japanese history"
+   ],
+   "description": "In the most brutal samurai legend ever told, a father gave his son a choice..",
+   "views_per_day": 37368.3,
+   "vs_median": 194.05,
+   "like_rate_pct": 1.8,
+   "vs_recent_median": 194.05,
+   "top_comments": [
+    {
+     "text": "Only the real ones know exactly where this scene is from...",
+     "likes": 1561
+    },
+    {
+     "text": "Definition of \"Bro woke up and chose violence\" 🗣️🔥",
+     "likes": 2056
+    },
+    {
+     "text": "My bro LITERALLY chose violence from the begining",
+     "likes": 4393
+    },
+    {
+     "text": "And that’s how Jin Sakai was born",
+     "likes": 1035
+    },
+    {
+     "text": "Anakin, you were the chosen one!!! 😂😂",
+     "likes": 384
+    },
+    {
+     "text": "*to spare him from suffering🥀*",
+     "likes": 29
+    },
+    {
+     "text": "That looks like the reference from  book of boba fet",
+     "likes": 226
+    },
+    {
+     "text": "\"That one time his father was happy\"",
+     "likes": 131
+    },
+    {
+     "text": "Bro my reaction was like \"if he chose the toy he would be sent to his mother\" hey that's not too bad \"in the spirit world😭🙏\"",
+     "likes": 1
+    },
+    {
+     "text": "Violence is not an option, it's an answer and the answer is yes.",
+     "likes": 12
+    },
+    {
+     "text": "Bro got inspired from starwars",
+     "likes": 63
+    },
+    {
+     "text": "This is the type of bros you gonna get in the future",
+     "likes": 10
+    },
+    {
+     "text": "This is deadass just ryoshūs canto",
+     "likes": 29
+    },
+    {
+     "text": "This is from lone wolf and cub I think",
+     "likes": 50
+    },
+    {
+     "text": "Thats a true warrior fr",
+     "likes": 1
+    }
+   ],
+   "transcript": null
+  },
+  {
+   "id": "C4qydYxbdMU",
+   "title": "The Secret Ninja Superfood",
+   "published": "2026-03-07T16:55:00Z",
+   "weekday_utc": "Sat",
+   "hour_utc": 16,
+   "age_days": 239,
+   "duration_s": 53,
+   "short": true,
+   "views": 8376949,
+   "likes": 319216,
+   "comments": 1536,
+   "tags": [],
+   "description": "What kept the legendary shinobi going during long, grueling missions? It wasn't magic—it was a highly advanced survival ration known as Hyourogan. How was it made, and could it really stop hunger for days?",
+   "views_per_day": 35050.0,
+   "vs_median": 148.46,
+   "like_rate_pct": 3.81,
+   "vs_recent_median": 148.46,
+   "top_comments": [
+    {
+     "text": "Modern versions of Hyorogan are still made in Japan today, and survivalists actively recreate the ancient recipe!",
+     "likes": 3905
+    },
+    {
+     "text": "The Germans made something like this to, they called it Methamphetamine\n\nEdit: It seems I have been consistently annoying history enjoyers for 13 days straight with a consistent 13 replies on average per day. So the Japanese actually invented Methamphetamine. Pervitin was what it was branded as in G",
+     "likes": 41882
+    },
+    {
+     "text": "Fun fact! \nA channel called tasting history did make this recipe, it took him 3 years just to finish it",
+     "likes": 6381
+    },
+    {
+     "text": "From what I've heard, they apparently tasted bad enough that you probably wouldn't feel like eating afterwards anyway",
+     "likes": 7626
+    },
+    {
+     "text": "A ninja can go for days, just knowing that a hyorogan is in their pouch. You only had to look at it for a moment, and instantly you can think of dozens of other things you'd rather eat. Your own boots, for example. Mountains. Raw sheep. Your own foot.",
+     "likes": 726
+    },
+    {
+     "text": "Imagine being a ninja and your cover is blown because the guards hear your stomach growl",
+     "likes": 169
+    },
+    {
+     "text": "Hunger would still be an issue. Hunger is an empty stomach, but feeling tired and weak is another thing.",
+     "likes": 97
+    },
+    {
+     "text": "\"job stars\"",
+     "likes": 11703
+    },
+    {
+     "text": "Ninja's were made popular and mystical by the media , in reality they were just normal spy that you find today .\nNot some human with excellent acrobat ability.",
+     "likes": 40
+    },
+    {
+     "text": "A YouTube chef recreated them. TLDR, they tasted so bad you wouldn’t want to eat anything for a week after lmao",
+     "likes": 29
+    },
+    {
+     "text": "The food pills from Naruto.  Kogi Nakamichi's jutsu",
+     "likes": 968
+    },
+    {
+     "text": "Job stars seem a bit bizarre",
+     "likes": 135
+    },
+    {
+     "text": "Maybe the senzu bean from dbz partially stems from this",
+     "likes": 1762
+    },
+    {
+     "text": "Jobstar❌️\nJobstear❌️\nJoestar✅️",
+     "likes": 41
+    },
+    {
+     "text": "Congratulations! You found a rare corndog with a spawn chance of 0.001 percent 🎉",
+     "likes": 10
+    }
+   ],
+   "transcript": null
+  }
+ ],
+ "videos": [
+  {
+   "id": "MaCwNPNCXQ0",
+   "title": "Steel blades",
+   "published": "2026-10-31T17:52:29Z",
+   "weekday_utc": "Sat",
+   "hour_utc": 17,
+   "age_days": 1,
+   "duration_s": 38,
+   "short": true,
+   "views": 42547,
+   "likes": 765,
+   "comments": 5,
+   "tags": [],
+   "description": "",
+   "views_per_day": 42547.0,
+   "vs_median": 0.75,
+   "like_rate_pct": 1.8,
+   "vs_recent_median": 0.75
+  },
+  {
+   "id": "lgz2cl__cpE",
+   "title": "New Skill Unlocked",
+   "published": "2026-10-24T11:40:47Z",
+   "weekday_utc": "Sat",
+   "hour_utc": 11,
+   "age_days": 9,
+   "duration_s": 24,
+   "short": true,
+   "views": 34709,
+   "likes": 457,
+   "comments": 13,
+   "tags": [],
+   "description": "",
+   "views_per_day": 3856.6,
+   "vs_median": 0.62,
+   "like_rate_pct": 1.32,
+   "vs_recent_median": 0.62
+  },
+  {
+   "id": "0EHbt1XmtcQ",
+   "title": "The Soviet Kids' Game",
+   "published": "2026-10-19T19:19:31Z",
+   "weekday_utc": "Mon",
+   "hour_utc": 19,
+   "age_days": 13,
+   "duration_s": 30,
+   "short": true,
+   "views": 24397,
+   "likes": 310,
+   "comments": 6,
+   "tags": [],
+   "description": "Before smartphones and the internet, kids came up with some pretty wild street experiments.\nDisclaimer: This video is for educational purposes only; do not attempt to recreate anything shown here.",
+   "views_per_day": 1876.7,
+   "vs_median": 0.43,
+   "like_rate_pct": 1.27,
+   "vs_recent_median": 0.43
+  },
+  {
+   "id": "vpe1hnsw8Sc",
+   "title": "The Punisher Explains Why You'll Miss",
+   "published": "2026-10-12T08:35:04Z",
+   "weekday_utc": "Mon",
+   "hour_utc": 8,
+   "age_days": 21,
+   "duration_s": 28,
+   "short": true,
+   "views": 41487,
+   "likes": 1055,
+   "comments": 31,
+   "tags": [
+    "the punisher",
+    "frank castle"
+   ],
+   "description": "Most people are confident they can easily hit a target from thirty feet away. But The Punisher showed that's far from true.",
+   "views_per_day": 1975.6,
+   "vs_median": 0.74,
+   "like_rate_pct": 2.54,
+   "vs_recent_median": 0.74
+  },
+  {
+   "id": "LF5ntJQ3qho",
+   "title": "The Desperado Arsenal",
+   "published": "2026-10-03T10:43:45Z",
+   "weekday_utc": "Sat",
+   "hour_utc": 10,
+   "age_days": 30,
+   "duration_s": 27,
+   "short": true,
+   "views": 9210,
+   "likes": 205,
+   "comments": 6,
+   "tags": [
+    "Desperado movie",
+    "El Mariachi",
+    "action movie scenes",
+    "guitar case weapons",
+    "antonio banderas",
+    "el mariachi robert rodriguez"
+   ],
+   "description": "He looks like an ordinary musician, but his guitar case is actually a full-blown arsenal packed with grenades, shotguns, and handguns.\n\nEl Mariachi is the ultimate Desperado movie hero.",
+   "views_per_day": 307.0,
+   "vs_median": 0.16,
+   "like_rate_pct": 2.23,
+   "vs_recent_median": 0.16
+  },
+  {
+   "id": "mxKtcUgYk1g",
+   "title": "The Craziest Hidden Gun",
+   "published": "2026-09-19T11:38:32Z",
+   "weekday_utc": "Sat",
+   "hour_utc": 11,
+   "age_days": 44,
+   "duration_s": 27,
+   "short": true,
+   "views": 15719913,
+   "likes": 289688,
+   "comments": 1970,
+   "tags": [],
+   "description": "",
+   "views_per_day": 357270.8,
+   "vs_median": 278.6,
+   "like_rate_pct": 1.84,
+   "vs_recent_median": 278.6,
+   "top_comments": [
+    {
+     "text": "I first saw this gun in a Robert Rodriguez movie. The man’s a true action master. Much respect, Robert. \nHope you guys aren’t planning on trying this at home😎",
+     "likes": 1957
+    },
+    {
+     "text": "The recoil must be crazy",
+     "likes": 20934
+    },
+    {
+     "text": "\"How did he die?\"\n\"He was a yoga teacher.\"",
+     "likes": 1266
+    },
+    {
+     "text": "Pistol ❌\nDihstol ✅",
+     "likes": 6573
+    },
+    {
+     "text": "the GERMAN TECHNOLOGY HAVE  ALREADY out matched perfection",
+     "likes": 40
+    },
+    {
+     "text": "“How did he get killed?”\n\n“He got shot in the balls”",
+     "likes": 1569
+    },
+    {
+     "text": "This guy truly SHOT HIS  LOAD!",
+     "likes": 2547
+    },
+    {
+     "text": "\"the design is very human\"\n\nEdit: MOM IM FAMOUS",
+     "likes": 5640
+    },
+    {
+     "text": "I also have something like that! Although mine shoots something ever so slightly different.",
+     "likes": 1
+    },
+    {
+     "text": "Truly gives a new meaning to \"cocking your revolver\"",
+     "likes": 103
+    },
+    {
+     "text": "Weapon ❌ Dihhpon ✅",
+     "likes": 142
+    },
+    {
+     "text": "Standoff 2 map😂",
+     "likes": 11
+    },
+    {
+     "text": "From dusk till dawn. Iykyk",
+     "likes": 904
+    },
+    {
+     "text": "The design is very human",
+     "likes": 340
+    },
+    {
+     "text": "This design was probably made by two drunk guys in the basement",
+     "likes": 1
+    }
+   ],
+   "transcript": null
+  },
+  {
+   "id": "TNJFFKKc0s0",
+   "title": "Push-ups like Islam Makhachev",
+   "published": "2026-08-22T13:30:03Z",
+   "weekday_utc": "Sat",
+   "hour_utc": 13,
+   "age_days": 71,
+   "duration_s": 35,
+   "short": true,
+   "views": 2154408,
+   "likes": 43718,
+   "comments": 375,
+   "tags": [
+    "islam makhachev",
+    "Push-ups",
+    "islam makhachev training"
+   ],
+   "description": "",
+   "views_per_day": 30343.8,
+   "vs_median": 38.18,
+   "like_rate_pct": 2.03,
+   "vs_recent_median": 38.18
+  },
+  {
+   "id": "rRbjcb5UHJw",
+   "title": "How Ninjas Told Time Without Watches",
+   "published": "2026-08-17T11:55:10Z",
+   "weekday_utc": "Mon",
+   "hour_utc": 11,
+   "age_days": 77,
+   "duration_s": 33,
+   "short": true,
+   "views": 56257,
+   "likes": 910,
+   "comments": 13,
+   "tags": [
+    "ninja"
+   ],
+   "description": "",
+   "views_per_day": 730.6,
+   "vs_median": 1.0,
+   "like_rate_pct": 1.62,
+   "vs_recent_median": 1.0
+  },
+  {
+   "id": "tCMA90eKteA",
+   "title": "The Most Popular Soviet Street Game",
+   "published": "2026-08-03T14:50:09Z",
+   "weekday_utc": "Mon",
+   "hour_utc": 14,
+   "age_days": 90,
+   "duration_s": 39,
+   "short": true,
+   "views": 43973,
+   "likes": 519,
+   "comments": 24,
+   "tags": [],
+   "description": "",
+   "views_per_day": 488.6,
+   "vs_median": 0.78,
+   "like_rate_pct": 1.18,
+   "vs_recent_median": 0.78
+  },
+  {
+   "id": "1jsgwUNanQ8",
+   "title": "Kids Everywhere Played This",
+   "published": "2026-07-30T13:03:06Z",
+   "weekday_utc": "Thu",
+   "hour_utc": 13,
+   "age_days": 95,
+   "duration_s": 116,
+   "short": true,
+   "views": 148,
+   "likes": 5,
+   "comments": 3,
+   "tags": [
+    "kids everywhere played this",
+    "dangerous playground game",
+    "bolt bomb",
+    "childhood games",
+    "90s nostalgia",
+    "pre internet mystery",
+    "homemade firecracker",
+    "kids toys 90s",
+    "weird history",
+    "global mystery",
+    "nut and bolt game"
+   ],
+   "description": "Long before the internet, social media, or YouTube, kids all over the planet were playing the exact same dangerous playground game. We built firecrackers out of a simple nut, two construction bolts, and some matches. But how did this idea travel across oceans and the Iron Curtain?",
+   "views_per_day": 1.6,
+   "vs_median": 0.0,
+   "like_rate_pct": 3.38,
+   "vs_recent_median": 0.0
+  },
+  {
+   "id": "XbOukt18qUk",
+   "title": "Will You Still Buy Large?",
+   "published": "2026-07-27T18:05:29Z",
+   "weekday_utc": "Mon",
+   "hour_utc": 18,
+   "age_days": 97,
+   "duration_s": 36,
+   "short": true,
+   "views": 42210,
+   "likes": 301,
+   "comments": 5,
+   "tags": [],
+   "description": "",
+   "views_per_day": 435.2,
+   "vs_median": 0.75,
+   "like_rate_pct": 0.71,
+   "vs_recent_median": 0.75
+  },
+  {
+   "id": "M0Kt5gK5xVA",
+   "title": "Makiwara",
+   "published": "2026-07-23T12:15:01Z",
+   "weekday_utc": "Thu",
+   "hour_utc": 12,
+   "age_days": 102,
+   "duration_s": 31,
+   "short": true,
+   "views": 5518,
+   "likes": 47,
+   "comments": 6,
+   "tags": [],
+   "description": "",
+   "views_per_day": 54.1,
+   "vs_median": 0.1,
+   "like_rate_pct": 0.85,
+   "vs_recent_median": 0.1
+  },
+  {
+   "id": "9EjT3H6MQno",
+   "title": "Maximum Power Strike",
+   "published": "2026-07-14T15:25:32Z",
+   "weekday_utc": "Tue",
+   "hour_utc": 15,
+   "age_days": 110,
+   "duration_s": 42,
+   "short": true,
+   "views": 170349,
+   "likes": 3354,
+   "comments": 48,
+   "tags": [],
+   "description": "",
+   "views_per_day": 1548.6,
+   "vs_median": 3.02,
+   "like_rate_pct": 1.97,
+   "vs_recent_median": 3.02
+  },
+  {
+   "id": "Dd5to-WoipY",
+   "title": "Correct Horse Mounting",
+   "published": "2026-07-10T12:05:03Z",
+   "weekday_utc": "Fri",
+   "hour_utc": 12,
+   "age_days": 115,
+   "duration_s": 27,
+   "short": true,
+   "views": 8650,
+   "likes": 81,
+   "comments": 2,
+   "tags": [],
+   "description": "",
+   "views_per_day": 75.2,
+   "vs_median": 0.15,
+   "like_rate_pct": 0.94,
+   "vs_recent_median": 0.15
+  },
+  {
+   "id": "V_UN-rEVcN0",
+   "title": "The Card Flipping Game",
+   "published": "2026-06-26T11:55:10Z",
+   "weekday_utc": "Fri",
+   "hour_utc": 11,
+   "age_days": 129,
+   "duration_s": 35,
+   "short": true,
+   "views": 10469,
+   "likes": 97,
+   "comments": 4,
+   "tags": [],
+   "description": "",
+   "views_per_day": 81.2,
+   "vs_median": 0.19,
+   "like_rate_pct": 0.93,
+   "vs_recent_median": 0.19
+  },
+  {
+   "id": "bGER0fbKXag",
+   "title": "The Soviet Kids' Knife Game",
+   "published": "2026-06-19T11:45:12Z",
+   "weekday_utc": "Fri",
+   "hour_utc": 11,
+   "age_days": 136,
+   "duration_s": 48,
+   "short": true,
+   "views": 25731464,
+   "likes": 695996,
+   "comments": 2368,
+   "tags": [],
+   "description": "",
+   "views_per_day": 189201.9,
+   "vs_median": 456.03,
+   "like_rate_pct": 2.7,
+   "vs_recent_median": 456.03,
+   "top_comments": [
+    {
+     "text": "FAQ about the game:\nWhat is this game called?\nIt’s a real Soviet-era street game called \"Nozhichki\" (Little Knives). This specific version is \"Sea Battle\". There is no official source, kids just passed it down in the streets!\nHow many points to win?\nPlayers usually agree on a target like 50 or 100 p",
+     "likes": 5230
+    },
+    {
+     "text": "\"If the blade lands in the oppenent you automatically win\"",
+     "likes": 1893
+    },
+    {
+     "text": "Instructions unclear I end up in the hospital",
+     "likes": 33234
+    },
+    {
+     "text": "I’m pretty sure you also win if the knife hits the opponent",
+     "likes": 7530
+    },
+    {
+     "text": "This actually sounds like a fun game to play with the boys. I already do knife tricks",
+     "likes": 22
+    },
+    {
+     "text": "All shits and giggles till the blade hits your neck. Instant win",
+     "likes": 3559
+    },
+    {
+     "text": "New bottle flipping teck",
+     "likes": 3931
+    },
+    {
+     "text": "Of course it’s a Soviet kid game\n\n\nThank you for 3000 likes",
+     "likes": 6371
+    },
+    {
+     "text": "Я играл в эту игру в детстве. В нее играли на скамье из обычной доски некрашенной.\nЕсли нож втыкался но ручка не касалась доски под нее подставляли пальцы - чем больше пальцев тем больше очков.",
+     "likes": 467
+    },
+    {
+     "text": "Humans will do anything but call it “1 point - 10 points”",
+     "likes": 1
+    },
+    {
+     "text": "I love the detail of actually using Soviet  vessels",
+     "likes": 218
+    },
+    {
+     "text": "My childhood friend from Russia taught me this. We played all the time. It was crazy to me that his parents let us play with knives like this. You definitely get poked at some point.",
+     "likes": 135
+    },
+    {
+     "text": "*And for actual last, if the knife hits the opponent's dih, that was a Super-Dreadnought, scoring you 150 million power in rise of kingdoms 2!*",
+     "likes": 468
+    },
+    {
+     "text": "You forgot the nuclear submarine when the blade goes in at a 60 degree angle, when this happens 3 ICBMs are launched directly at the player's exact location and the game ends.",
+     "likes": 1
+    },
+    {
+     "text": "So Russians play with knives as kids. That explains a lot",
+     "likes": 2
+    }
+   ],
+   "transcript": null
+  },
+  {
+   "id": "n3SfMsZL1mg",
+   "title": "Solved by a Child",
+   "published": "2026-06-13T14:05:35Z",
+   "weekday_utc": "Sat",
+   "hour_utc": 14,
+   "age_days": 141,
+   "duration_s": 25,
+   "short": true,
+   "views": 1943132,
+   "likes": 12432,
+   "comments": 49,
+   "tags": [],
+   "description": "",
+   "views_per_day": 13781.1,
+   "vs_median": 34.44,
+   "like_rate_pct": 0.64,
+   "vs_recent_median": 34.44
+  },
+  {
+   "id": "8ONtq-FSWZM",
+   "title": "Soviet Kids Made Dangerous Toys",
+   "published": "2026-05-16T12:25:00Z",
+   "weekday_utc": "Sat",
+   "hour_utc": 12,
+   "age_days": 170,
+   "duration_s": 40,
+   "short": true,
+   "views": 4390242,
+   "likes": 109529,
+   "comments": 2366,
+   "tags": [],
+   "description": "Kids in the Soviet Union were incredibly inventive. This street game peaked in popularity from the 1970s through the late 1980s and was a staple of Soviet courtyard culture. Since commercial firecrackers were completely unavailable, kids made their own. Two heavy construction bolts were joined by a single nut. The empty space inside the nut was tightly packed with scraped matchhead powder. Finally",
+   "views_per_day": 25825.0,
+   "vs_median": 77.81,
+   "like_rate_pct": 2.49,
+   "vs_recent_median": 77.81
+  },
+  {
+   "id": "JwhGYf567ss",
+   "title": "The Problem with Perfect Toys",
+   "published": "2026-05-14T11:16:57Z",
+   "weekday_utc": "Thu",
+   "hour_utc": 11,
+   "age_days": 172,
+   "duration_s": 35,
+   "short": true,
+   "views": 941278,
+   "likes": 16546,
+   "comments": 276,
+   "tags": [],
+   "description": "",
+   "views_per_day": 5472.5,
+   "vs_median": 16.68,
+   "like_rate_pct": 1.76,
+   "vs_recent_median": 16.68
+  },
+  {
+   "id": "rOSrGrjUtdg",
+   "title": "Legend says this is how the flying kick was born",
+   "published": "2026-05-07T13:30:58Z",
+   "weekday_utc": "Thu",
+   "hour_utc": 13,
+   "age_days": 178,
+   "duration_s": 27,
+   "short": true,
+   "views": 24207,
+   "likes": 517,
+   "comments": 10,
+   "tags": [],
+   "description": "",
+   "views_per_day": 136.0,
+   "vs_median": 0.43,
+   "like_rate_pct": 2.14,
+   "vs_recent_median": 0.43
+  },
+  {
+   "id": "DM1kH9ewnHM",
+   "title": "The Demon Mask",
+   "published": "2026-04-30T11:55:01Z",
+   "weekday_utc": "Thu",
+   "hour_utc": 11,
+   "age_days": 186,
+   "duration_s": 38,
+   "short": true,
+   "views": 50168,
+   "likes": 1238,
+   "comments": 12,
+   "tags": [],
+   "description": "Shinobi were masters of psychological warfare, exploiting the fears and superstitions of their era: Onibi-no-jutsu \"The Art of Demon Fire\".",
+   "views_per_day": 269.7,
+   "vs_median": 0.89,
+   "like_rate_pct": 2.47,
+   "vs_recent_median": 0.89
+  },
+  {
+   "id": "Wi5HNs9Q9M8",
+   "title": "4 Samurai Played Go",
+   "published": "2026-04-23T17:45:05Z",
+   "weekday_utc": "Thu",
+   "hour_utc": 17,
+   "age_days": 192,
+   "duration_s": 101,
+   "short": true,
+   "views": 51987,
+   "likes": 1512,
+   "comments": 48,
+   "tags": [],
+   "description": "4 Samurai Played Go...\nA simple game of Go ended in a bloody massacre.\nSource: Historical records of the Edo Period / \"Hagakure\"",
+   "views_per_day": 270.8,
+   "vs_median": 0.92,
+   "like_rate_pct": 2.91,
+   "vs_recent_median": 0.92
+  },
+  {
+   "id": "ZNToocWZpSc",
+   "title": "Why You Could NEVER Surprise a Ninja.",
+   "published": "2026-04-16T11:55:00Z",
+   "weekday_utc": "Thu",
+   "hour_utc": 11,
+   "age_days": 200,
+   "duration_s": 29,
+   "short": true,
+   "views": 34056,
+   "likes": 626,
+   "comments": 7,
+   "tags": [],
+   "description": "A ninja’s home was a literal death trap. The secret lay beneath the intruder's feet: UGUISUBARI. \nYou can still see these floors today at Nijo Castle in Kyoto.\n\nCreated in Blender.\nSubscribe for more stories like this.",
+   "views_per_day": 170.3,
+   "vs_median": 0.6,
+   "like_rate_pct": 1.84,
+   "vs_recent_median": 0.6
+  },
+  {
+   "id": "qn0YbWvs56A",
+   "title": "Ninja Tetsubishi",
+   "published": "2026-04-08T19:15:04Z",
+   "weekday_utc": "Wed",
+   "hour_utc": 19,
+   "age_days": 207,
+   "duration_s": 25,
+   "short": true,
+   "views": 91782,
+   "likes": 1142,
+   "comments": 11,
+   "tags": [
+    "ninja"
+   ],
+   "description": "Tetsubishi — ninja iron spikes. The coolest thing is their shape: no matter how you throw them, the center of gravity keeps one spike pointing straight up.\n\nAll animation and models were created by me in Unreal Engine 5. Subscribe for more stories like this!",
+   "views_per_day": 443.4,
+   "vs_median": 1.63,
+   "like_rate_pct": 1.24,
+   "vs_recent_median": 1.63
+  },
+  {
+   "id": "eVqIAisHQQU",
+   "title": "The Secret to the Ninja’s Impossible Jump",
+   "published": "2026-03-26T17:55:00Z",
+   "weekday_utc": "Thu",
+   "hour_utc": 17,
+   "age_days": 220,
+   "duration_s": 36,
+   "short": true,
+   "views": 4721514,
+   "likes": 167713,
+   "comments": 406,
+   "tags": [],
+   "description": "Tetsu Geta, also known as \"demon's sandals\" — the secret behind a ninja's legendary jumping ability. These were heavy iron platforms weighing between 3 and 5 kg. They were even linked by a chain to keep the legs from spreading too wide.\n\nJust walking in them was a workout, requiring intense toe grip and balance. Training in the mountains and on sand rewired the body’s biomechanics, strengthening t",
+   "views_per_day": 21461.4,
+   "vs_median": 83.68,
+   "like_rate_pct": 3.55,
+   "vs_recent_median": 83.68
+  },
+  {
+   "id": "SGr0QYw74p0",
+   "title": "How Elite Warriors Kill Panic",
+   "published": "2026-03-19T11:55:00Z",
+   "weekday_utc": "Thu",
+   "hour_utc": 11,
+   "age_days": 228,
+   "duration_s": 39,
+   "short": true,
+   "views": 40372,
+   "likes": 1738,
+   "comments": 14,
+   "tags": [],
+   "description": "",
+   "views_per_day": 177.1,
+   "vs_median": 0.72,
+   "like_rate_pct": 4.3,
+   "vs_recent_median": 0.72
+  },
+  {
+   "id": "C4qydYxbdMU",
+   "title": "The Secret Ninja Superfood",
+   "published": "2026-03-07T16:55:00Z",
+   "weekday_utc": "Sat",
+   "hour_utc": 16,
+   "age_days": 239,
+   "duration_s": 53,
+   "short": true,
+   "views": 8376949,
+   "likes": 319216,
+   "comments": 1536,
+   "tags": [],
+   "description": "What kept the legendary shinobi going during long, grueling missions? It wasn't magic—it was a highly advanced survival ration known as Hyourogan. How was it made, and could it really stop hunger for days?",
+   "views_per_day": 35050.0,
+   "vs_median": 148.46,
+   "like_rate_pct": 3.81,
+   "vs_recent_median": 148.46,
+   "top_comments": [
+    {
+     "text": "Modern versions of Hyorogan are still made in Japan today, and survivalists actively recreate the ancient recipe!",
+     "likes": 3905
+    },
+    {
+     "text": "The Germans made something like this to, they called it Methamphetamine\n\nEdit: It seems I have been consistently annoying history enjoyers for 13 days straight with a consistent 13 replies on average per day. So the Japanese actually invented Methamphetamine. Pervitin was what it was branded as in G",
+     "likes": 41882
+    },
+    {
+     "text": "Fun fact! \nA channel called tasting history did make this recipe, it took him 3 years just to finish it",
+     "likes": 6381
+    },
+    {
+     "text": "From what I've heard, they apparently tasted bad enough that you probably wouldn't feel like eating afterwards anyway",
+     "likes": 7626
+    },
+    {
+     "text": "A ninja can go for days, just knowing that a hyorogan is in their pouch. You only had to look at it for a moment, and instantly you can think of dozens of other things you'd rather eat. Your own boots, for example. Mountains. Raw sheep. Your own foot.",
+     "likes": 726
+    },
+    {
+     "text": "Imagine being a ninja and your cover is blown because the guards hear your stomach growl",
+     "likes": 169
+    },
+    {
+     "text": "Hunger would still be an issue. Hunger is an empty stomach, but feeling tired and weak is another thing.",
+     "likes": 97
+    },
+    {
+     "text": "\"job stars\"",
+     "likes": 11703
+    },
+    {
+     "text": "Ninja's were made popular and mystical by the media , in reality they were just normal spy that you find today .\nNot some human with excellent acrobat ability.",
+     "likes": 40
+    },
+    {
+     "text": "A YouTube chef recreated them. TLDR, they tasted so bad you wouldn’t want to eat anything for a week after lmao",
+     "likes": 29
+    },
+    {
+     "text": "The food pills from Naruto.  Kogi Nakamichi's jutsu",
+     "likes": 968
+    },
+    {
+     "text": "Job stars seem a bit bizarre",
+     "likes": 135
+    },
+    {
+     "text": "Maybe the senzu bean from dbz partially stems from this",
+     "likes": 1762
+    },
+    {
+     "text": "Jobstar❌️\nJobstear❌️\nJoestar✅️",
+     "likes": 41
+    },
+    {
+     "text": "Congratulations! You found a rare corndog with a spawn chance of 0.001 percent 🎉",
+     "likes": 10
+    }
+   ],
+   "transcript": null
+  },
+  {
+   "id": "6XMWUvXftKI",
+   "title": "Samurai vs Ninja",
+   "published": "2026-02-23T11:55:00Z",
+   "weekday_utc": "Mon",
+   "hour_utc": 11,
+   "age_days": 252,
+   "duration_s": 30,
+   "short": true,
+   "views": 5846643,
+   "likes": 152285,
+   "comments": 1185,
+   "tags": [],
+   "description": "",
+   "views_per_day": 23201.0,
+   "vs_median": 103.62,
+   "like_rate_pct": 2.6,
+   "vs_recent_median": 103.62
+  },
+  {
+   "id": "jtWz9vPZmBE",
+   "title": "A Viking’s Execution Prank",
+   "published": "2026-02-13T11:55:01Z",
+   "weekday_utc": "Fri",
+   "hour_utc": 11,
+   "age_days": 262,
+   "duration_s": 50,
+   "short": true,
+   "views": 462858,
+   "likes": 13922,
+   "comments": 70,
+   "tags": [],
+   "description": "This sequence is based on the 13th-century \"Jómsvíkinga saga,\" detailing events from the year 986. While historians debate the literal truth of the story, it remains the ultimate example of Old Norse \"Drengskapr\" — courage and honor in the face of death.",
+   "views_per_day": 1766.6,
+   "vs_median": 8.2,
+   "like_rate_pct": 3.01,
+   "vs_recent_median": 8.2
+  },
+  {
+   "id": "D9hGKgFt3wc",
+   "title": "Why Ninjas Carried Eggs",
+   "published": "2026-02-04T11:55:00Z",
+   "weekday_utc": "Wed",
+   "hour_utc": 11,
+   "age_days": 271,
+   "duration_s": 35,
+   "short": true,
+   "views": 3801755,
+   "likes": 113194,
+   "comments": 880,
+   "tags": [],
+   "description": "This is Metsubushi — the \"eye closer.\" Inside this hollow egg wasn't a yolk, but a blinding cocktail: crushed glass for micro-cuts, quicklime for chemical burns, and pepper for instant spasms.",
+   "views_per_day": 14028.6,
+   "vs_median": 67.38,
+   "like_rate_pct": 2.98,
+   "vs_recent_median": 67.38
+  },
+  {
+   "id": "EkMra9Xi7L4",
+   "title": "You Are The Best... In Your Backyard",
+   "published": "2026-01-25T18:37:09Z",
+   "weekday_utc": "Sun",
+   "hour_utc": 18,
+   "age_days": 280,
+   "duration_s": 42,
+   "short": true,
+   "views": 2941180,
+   "likes": 91800,
+   "comments": 496,
+   "tags": [],
+   "description": "Adapted from the Liezi (400 BC). As the master said: \"The true archer can aim while standing on the abyss. You are just a trembling man.\"",
+   "views_per_day": 10504.2,
+   "vs_median": 52.13,
+   "like_rate_pct": 3.12,
+   "vs_recent_median": 52.13
+  },
+  {
+   "id": "y3gDU-PwF7s",
+   "title": "The Brutal Samurai Legend",
+   "published": "2026-01-12T20:15:04Z",
+   "weekday_utc": "Mon",
+   "hour_utc": 20,
+   "age_days": 293,
+   "duration_s": 37,
+   "short": true,
+   "views": 10948906,
+   "likes": 197620,
+   "comments": 618,
+   "tags": [
+    "samurai",
+    "world history",
+    "japanese history"
+   ],
+   "description": "In the most brutal samurai legend ever told, a father gave his son a choice..",
+   "views_per_day": 37368.3,
+   "vs_median": 194.05,
+   "like_rate_pct": 1.8,
+   "vs_recent_median": 194.05,
+   "top_comments": [
+    {
+     "text": "Only the real ones know exactly where this scene is from...",
+     "likes": 1561
+    },
+    {
+     "text": "Definition of \"Bro woke up and chose violence\" 🗣️🔥",
+     "likes": 2056
+    },
+    {
+     "text": "My bro LITERALLY chose violence from the begining",
+     "likes": 4393
+    },
+    {
+     "text": "And that’s how Jin Sakai was born",
+     "likes": 1035
+    },
+    {
+     "text": "Anakin, you were the chosen one!!! 😂😂",
+     "likes": 384
+    },
+    {
+     "text": "*to spare him from suffering🥀*",
+     "likes": 29
+    },
+    {
+     "text": "That looks like the reference from  book of boba fet",
+     "likes": 226
+    },
+    {
+     "text": "\"That one time his father was happy\"",
+     "likes": 131
+    },
+    {
+     "text": "Bro my reaction was like \"if he chose the toy he would be sent to his mother\" hey that's not too bad \"in the spirit world😭🙏\"",
+     "likes": 1
+    },
+    {
+     "text": "Violence is not an option, it's an answer and the answer is yes.",
+     "likes": 12
+    },
+    {
+     "text": "Bro got inspired from starwars",
+     "likes": 63
+    },
+    {
+     "text": "This is the type of bros you gonna get in the future",
+     "likes": 10
+    },
+    {
+     "text": "This is deadass just ryoshūs canto",
+     "likes": 29
+    },
+    {
+     "text": "This is from lone wolf and cub I think",
+     "likes": 50
+    },
+    {
+     "text": "Thats a true warrior fr",
+     "likes": 1
+    }
+   ],
+   "transcript": null
+  },
+  {
+   "id": "v3qmqJaCEDE",
+   "title": "Stop Missing!",
+   "published": "2026-01-08T10:40:01Z",
+   "weekday_utc": "Thu",
+   "hour_utc": 10,
+   "age_days": 298,
+   "duration_s": 21,
+   "short": true,
+   "views": 56592,
+   "likes": 882,
+   "comments": 14,
+   "tags": [],
+   "description": "This simple sticker changed everything. 🤯 The psychology behind the famous Amsterdam airport urinal fly. #shorts #psychology #facts #relatable #lifehacks",
+   "views_per_day": 189.9,
+   "vs_median": 1.0,
+   "like_rate_pct": 1.56,
+   "vs_recent_median": 1.0
+  },
+  {
+   "id": "3wRSndjIc1Y",
+   "title": "How A Bad Decision Made Him A Celebrity #shorts #viral #trending",
+   "published": "2026-01-04T17:00:06Z",
+   "weekday_utc": "Sun",
+   "hour_utc": 17,
+   "age_days": 301,
+   "duration_s": 24,
+   "short": true,
+   "views": 30552,
+   "likes": 531,
+   "comments": 9,
+   "tags": [
+    "scams",
+    "scammer",
+    "crime",
+    "viral online",
+    "online fame"
+   ],
+   "description": "In this video, we explore a bizarre incident where a man's attempt to scam a taxi driver unexpectedly led to his viral online fame. This tale highlights how a simple act of crime can take an unforeseen turn, turning a scammer into an online sensation. The incident, caught on camera, quickly became a source of memes and launched a surprising fame story.",
+   "views_per_day": 101.5,
+   "vs_median": 0.54,
+   "like_rate_pct": 1.74,
+   "vs_recent_median": 0.54
+  },
+  {
+   "id": "5XRzMvWGmuk",
+   "title": "Spartan Trash Talk",
+   "published": "2025-12-29T20:46:28Z",
+   "weekday_utc": "Mon",
+   "hour_utc": 20,
+   "age_days": 307,
+   "duration_s": 21,
+   "short": true,
+   "views": 35189,
+   "likes": 693,
+   "comments": 21,
+   "tags": [],
+   "description": "",
+   "views_per_day": 114.6,
+   "vs_median": 0.62,
+   "like_rate_pct": 1.97,
+   "vs_recent_median": 0.62
+  },
+  {
+   "id": "fCCZV3G-Prc",
+   "title": "The Original \"Speed Reload\" System",
+   "published": "2025-12-14T11:29:42Z",
+   "weekday_utc": "Sun",
+   "hour_utc": 11,
+   "age_days": 323,
+   "duration_s": 11,
+   "short": true,
+   "views": 59244,
+   "likes": 676,
+   "comments": 9,
+   "tags": [],
+   "description": "",
+   "views_per_day": 183.4,
+   "vs_median": 1.05,
+   "like_rate_pct": 1.14,
+   "vs_recent_median": 1.05
+  },
+  {
+   "id": "WREE9racUII",
+   "title": "Invisible Growth",
+   "published": "2025-12-08T17:01:30Z",
+   "weekday_utc": "Mon",
+   "hour_utc": 17,
+   "age_days": 328,
+   "duration_s": 30,
+   "short": true,
+   "views": 22200256,
+   "likes": 524764,
+   "comments": 1009,
+   "tags": [],
+   "description": "",
+   "views_per_day": 67683.7,
+   "vs_median": 393.45,
+   "like_rate_pct": 2.36,
+   "vs_recent_median": 393.45,
+   "top_comments": [
+    {
+     "text": "I know 80ft sounds crazy, but it’s real! 🤯 It’s a species called \"Moso Bamboo\". Look it up, you won’t regret it.",
+     "likes": 585
+    },
+    {
+     "text": "99% of growers quit before they even see their bamboo grow",
+     "likes": 9417
+    },
+    {
+     "text": "That's quite the solid bamboo growth if it grows invisibly",
+     "likes": 9613
+    },
+    {
+     "text": "Invisible?\nLike..\nNo one hears a word",
+     "likes": 3055
+    },
+    {
+     "text": "Metal slug general laugh😮",
+     "likes": 826
+    },
+    {
+     "text": "This also teaches us about patience \nWhich most of us really don't have",
+     "likes": 645
+    },
+    {
+     "text": "imagine if jealous neighbour dug it up and you keep watering it for years expecting it to grow",
+     "likes": 105
+    },
+    {
+     "text": "Lesson:  Work hard in silence, let success make the noise.",
+     "likes": 20
+    },
+    {
+     "text": "Life lesson\nProgress takes time.",
+     "likes": 96
+    },
+    {
+     "text": "*There's a cruel punishment/execution method in ancient China that involves bamboo. The prisoners are tied flat on soil and placed directly above a growing bamboo. The growing bamboos then pierce through bodies impaling them, executing in a painful way*",
+     "likes": 2
+    },
+    {
+     "text": "What if someone stoles that bamabo and you stayed for 4 years😂",
+     "likes": 26
+    },
+    {
+     "text": "I think I have read that fact in a book called 'Atomic Habits' \nGreat book by the way. :)",
+     "likes": 2
+    },
+    {
+     "text": "To know ur success is great u don't need constant great results..",
+     "likes": 30
+    },
+    {
+     "text": "Moral of the story : Keep gambling",
+     "likes": 7
+    },
+    {
+     "text": "The old man laugh makes me give up 😂",
+     "likes": 10
+    }
+   ],
+   "transcript": null
+  },
+  {
+   "id": "AUQTrcB9-9g",
+   "title": "Control Your Anger",
+   "published": "2025-12-05T20:20:06Z",
+   "weekday_utc": "Fri",
+   "hour_utc": 20,
+   "age_days": 331,
+   "duration_s": 23,
+   "short": true,
+   "views": 1427361,
+   "likes": 35476,
+   "comments": 234,
+   "tags": [],
+   "description": "",
+   "views_per_day": 4312.3,
+   "vs_median": 25.3,
+   "like_rate_pct": 2.49,
+   "vs_recent_median": 25.3
+  },
+  {
+   "id": "a6HrkIjCEvs",
+   "title": "Baysangur of Beno",
+   "published": "2025-11-27T12:57:34Z",
+   "weekday_utc": "Thu",
+   "hour_utc": 12,
+   "age_days": 340,
+   "duration_s": 21,
+   "short": true,
+   "views": 55903,
+   "likes": 1012,
+   "comments": 6,
+   "tags": [],
+   "description": "",
+   "views_per_day": 164.4,
+   "vs_median": 0.99,
+   "like_rate_pct": 1.81,
+   "vs_recent_median": 0.99
+  },
+  {
+   "id": "ef9iuB4N8yE",
+   "title": "He Was About To Throw His Dad Off A Cliff... 😱",
+   "published": "2025-11-21T12:20:10Z",
+   "weekday_utc": "Fri",
+   "hour_utc": 12,
+   "age_days": 346,
+   "duration_s": 28,
+   "short": true,
+   "views": 7386987,
+   "likes": 92541,
+   "comments": 243,
+   "tags": [],
+   "description": "",
+   "views_per_day": 21349.7,
+   "vs_median": 130.92,
+   "like_rate_pct": 1.25,
+   "vs_recent_median": 130.92
+  }
+ ]
+}
