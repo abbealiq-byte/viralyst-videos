@@ -1,0 +1,9 @@
+{"title":"GTA 6 is 17 days away","speed":1.12,"hide_brand_on_hook":true,"scenes":[
+ {"type":"counter","say":"GTA 6 is seventeen days away. And PC players still have no date.","top":"GTA 6 IS","value":17,"suffix":" DAYS","label":"away","sub":"PC players: still no date","count_time":1.0},
+ {"type":"calendar","say":"It launches November nineteenth, on PlayStation 5 and Xbox Series.","heading":"LAUNCH DAY","month":"NOV","day":19,"color":"pink","lines":[{"t":"PS5  •  XBOX SERIES","color":"white","size":64}]},
+ {"type":"stamps","say":"It was delayed twice. First from 2025, then from May.","heading":"THE WAIT","items":[{"t":"DELAYED: 2025","color":"yellow","at":0.4},{"t":"DELAYED: MAY","color":"pink","at":1.6}]},
+ {"type":"calendar","say":"You can preload it from November twelfth.","heading":"PRELOAD","month":"NOV","day":12,"color":"cyan","cal_at":0.2,"lines":[{"t":"ONE WEEK EARLY","color":"yellow","size":72}],"lines_at":0.8},
+ {"type":"counter","say":"GTA 5 came out in 2013. That's thirteen years of waiting.","top":"SINCE GTA 5","value":13,"suffix":" YEARS","label":"2013 to 2026","count_time":1.2},
+ {"type":"stamps","say":"And PC? Not even announced.","heading":"AND PC?","items":[{"t":["PC:","NO DATE"],"color":"pink","at":0.5}],"y":700,"pause":0.6},
+ {"type":"buttons","say":"Console now, or wait for PC?","lines":[{"t":"CONSOLE NOW","color":"white","size":84},{"t":"OR WAIT?","color":"yellow","size":84}],"options":["CONSOLE","WAIT"],"hold":1.5}
+]}
