@@ -22,11 +22,14 @@ for i, fp in enumerate(frames):
     if txt and lt > 0.15:
         a = min(1.0, (lt - 0.15) / 0.2)
         ov = Image.new('RGBA', (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(ov)
-        b = d.textbbox((0, 0), txt, font=F); tw, th = b[2]-b[0], b[3]-b[1]
+        fnt = F; size = 74
+        while d.textbbox((0, 0), txt, font=fnt)[2] > 900 and size > 40:
+            size -= 4; fnt = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', size)
+        b = d.textbbox((0, 0), txt, font=fnt); tw, th = b[2]-b[0], b[3]-b[1]
         x, y = (W - tw) / 2, 300
         d.rounded_rectangle([x-36, y-26, x+tw+36, y+th+34], radius=26, fill=(8, 12, 30, int(205*a)))
         col = YEL if seg['name'] in ('hook', 'payoff', 'why') else WHITE
-        d.text((x, y - b[1]), txt, font=F, fill=col + (int(255*a),))
+        d.text((x, y - b[1]), txt, font=fnt, fill=col + (int(255*a),))
         im.paste(ov, (0, 0), ov)
     d = ImageDraw.Draw(im)
     d.rectangle([0, 0, int(W * (i+1) / len(frames)), 10], fill=(67, 213, 239))
