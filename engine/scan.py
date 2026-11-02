@@ -139,6 +139,7 @@ def md(r):
     return '\n'.join(L) + '\n'
 
 if __name__ == '__main__':
+    os.makedirs(os.path.join(ROOT, 'scans', 'results'), exist_ok=True)
     done = 0
     for req in sorted(glob.glob(os.path.join(ROOT, 'scans', 'requests', '*.txt'))):
         name = os.path.splitext(os.path.basename(req))[0]
