@@ -1,0 +1,11 @@
+{"title":"He Fought A War That Had Ended 29 Years Earlier","speed":1.08,"hide_brand_on_hook":true,"scenes":[
+ {"type":"text","say":"This soldier kept fighting for twenty-nine years after his war ended.","y":560,"lines":[{"t":"HE KEPT FIGHTING","color":"white","size":92},{"t":"29 YEARS","color":"yellow","size":150,"pop":true,"at":1.2},{"t":"AFTER THE WAR ENDED","color":"white","size":70,"at":2.4}]},
+ {"type":"text","say":"In 1944, Lieutenant Hiroo Onoda was sent to an island in the Philippines.","heading":"LIEUTENANT HIROO ONODA","y":600,"lines":[{"t":"1944","color":"yellow","size":170,"pop":true},{"t":"LUBANG ISLAND","color":"white","size":84,"at":0.8}],"sub":"Philippines","sub_at":1.4},
+ {"type":"stamps","say":"His orders: never surrender.","heading":"HIS ORDERS","items":[{"t":["NEVER","SURRENDER"],"color":"pink","at":0.5}],"y":700},
+ {"type":"text","say":"When the war ended, leaflets told him it was over. He decided they were fake.","heading":"1945","y":600,"lines":[{"t":"\"THE WAR IS OVER\"","color":"white","size":88},{"t":"FAKE?","color":"pink","size":150,"pop":true,"at":2.4}]},
+ {"type":"counter","say":"So he stayed in the jungle. Year after year. And his raids cost local villagers their lives.","top":"IN THE JUNGLE","value":29,"suffix":" YEARS","label":"his raids cost villagers their lives","count_time":1.6},
+ {"type":"text","say":"Then in 1974, a young Japanese traveler went looking for him, and found him in just four days.","heading":"1974","y":600,"lines":[{"t":"FOUND","color":"white","size":110},{"t":"IN 4 DAYS","color":"cyan","size":120,"pop":true,"at":2.6}]},
+ {"type":"text","say":"But he still refused to surrender, unless his old commander ordered it. That commander was now a bookseller.","heading":"ONE CONDITION","y":600,"lines":[{"t":"HIS OLD COMMANDER","color":"white","size":86},{"t":"NOW A BOOKSELLER","color":"yellow","size":86,"pop":true,"at":3.0}]},
+ {"type":"stamps","say":"He was flown to the island, and read him the order in person. Only then did Onoda surrender.","heading":"MARCH 9, 1974","items":[{"t":["ORDER","RECEIVED"],"color":"cyan","at":2.2}],"y":700,"pause":0.5},
+ {"type":"buttons","say":"Loyal, or lost?","lines":[{"t":"LOYAL","color":"white","size":110},{"t":"OR LOST?","color":"yellow","size":110}],"options":["LOYAL","LOST"],"hold":1.5}
+]}

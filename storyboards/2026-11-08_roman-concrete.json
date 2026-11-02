@@ -1,0 +1,10 @@
+{"title":"The Concrete That Heals Itself","speed":1.1,"hide_brand_on_hook":true,"scenes":[
+ {"type":"text","say":"This concrete is two thousand years old, and it can still repair itself.","y":600,"lines":[{"t":"2,000 YEARS OLD","color":"yellow","size":106},{"t":"AND IT HEALS ITSELF","color":"pink","size":88,"pop":true,"at":1.8}]},
+ {"type":"text","say":"Roman buildings like the Pantheon are still standing. Its dome is the largest unreinforced concrete dome in the world.","heading":"THE PANTHEON","y":600,"lines":[{"t":"WORLD'S LARGEST","color":"white","size":96},{"t":"UNREINFORCED","color":"cyan","size":96,"at":0.4},{"t":"CONCRETE DOME","color":"white","size":96,"at":0.8}]},
+ {"type":"stamps","say":"Scientists kept finding small white lumps inside Roman concrete.","heading":"THE MYSTERY","items":[{"t":"WHITE LUMPS?","color":"yellow","at":0.8}],"y":700},
+ {"type":"stamps","say":"For years, experts assumed it was just sloppy mixing.","heading":"THE OLD THEORY","items":[{"t":"SLOPPY MIXING","color":"grey","at":0.6}],"y":700,"sub":"(wrong)","sub_y":960,"sub_at":1.8},
+ {"type":"text","say":"But MIT researchers found the lumps are the secret. When a crack lets water in, they react and fill the crack, almost like glue.","heading":"THE SECRET","y":600,"lines":[{"t":"CRACK + WATER","color":"white","size":104},{"t":"= SEALED","color":"cyan","size":130,"pop":true,"at":3.0}]},
+ {"type":"counter","say":"In a test, a crack in Roman-style concrete sealed itself within two weeks. Modern concrete stayed cracked.","top":"SELF-SEALED IN","value":2,"suffix":" WEEKS","label":"modern concrete stayed cracked","count_time":0.8},
+ {"type":"text","say":"The trick? Mixing with quicklime, while it's hot. And now engineers are trying to bring it back.","heading":"THE RECIPE","y":600,"lines":[{"t":"HOT MIXING","color":"yellow","size":120,"pop":true},{"t":"IS COMING BACK","color":"white","size":96,"at":2.6}],"pause":0.5},
+ {"type":"buttons","say":"Should we build like the Romans again?","lines":[{"t":"BUILD LIKE","color":"white","size":100},{"t":"THE ROMANS?","color":"yellow","size":100}],"options":["YES","NO"],"hold":1.5}
+]}

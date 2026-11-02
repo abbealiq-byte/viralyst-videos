@@ -1,0 +1,10 @@
+{"title":"How A Mantis Shrimp Punches So Hard","speed":1.1,"hide_brand_on_hook":true,"scenes":[
+ {"type":"text","say":"This tiny animal can break aquarium glass.","y":600,"lines":[{"t":"THIS TINY ANIMAL","color":"white","size":96},{"t":"BREAKS GLASS","color":"pink","size":124,"pop":true,"at":1.2}]},
+ {"type":"text","say":"Meet the mantis shrimp. Fun fact: it's not even a real shrimp.","heading":"MEET THE","y":600,"lines":[{"t":"MANTIS SHRIMP","color":"cyan","size":110,"pop":true}],"sub":"(not actually a shrimp)","sub_at":1.8},
+ {"type":"counter","say":"Its club-like claw punches at about fifty miles per hour, in around three milliseconds.","top":"ITS PUNCH HITS","value":50,"suffix":" MPH","label":"in about 3 milliseconds","count_time":0.9,"stopwatch":true},
+ {"type":"counter","say":"That's an acceleration of up to ten thousand times gravity. Like a bullet.","top":"ACCELERATION","value":10000,"suffix":" G","label":"like a bullet","color":"pink","count_time":1.2},
+ {"type":"text","say":"But the punch is so fast, the water can't get out of the way.","y":620,"lines":[{"t":"THE WATER","color":"white","size":110},{"t":"CAN'T KEEP UP","color":"cyan","size":110,"pop":true,"at":1.4}]},
+ {"type":"stamps","say":"It forms a bubble that collapses with a shockwave. So the prey gets hit twice.","heading":"THE TWIST","items":[{"t":"HIT #1","color":"yellow","at":0.4},{"t":"HIT #2","color":"pink","at":2.6}],"pause":0.5},
+ {"type":"icon","say":"That's why aquarium keepers often use extra thick tanks.","icon":"shield","lines":[{"t":"EXTRA THICK TANKS","color":"yellow","size":80}]},
+ {"type":"buttons","say":"Would you keep one as a pet?","lines":[{"t":"WOULD YOU","color":"white","size":96},{"t":"KEEP ONE?","color":"yellow","size":96}],"options":["YES","NO WAY"],"hold":1.5}
+]}

@@ -1,0 +1,10 @@
+{"title":"Why Pirates Wore Eye Patches","speed":1.1,"hide_brand_on_hook":true,"scenes":[
+ {"type":"text","say":"Pirates didn't wear eye patches because they lost an eye.","y":560,"lines":[{"t":"PIRATES","color":"white","size":110},{"t":"DIDN'T LOSE","color":"white","size":100,"at":0.5},{"t":"AN EYE.","color":"pink","size":130,"pop":true,"at":1.6}]},
+ {"type":"text","say":"Life on a ship meant blinding sun up on deck.","heading":"ON DECK","y":620,"lines":[{"t":"BLINDING","color":"yellow","size":120,"pop":true},{"t":"SUNLIGHT","color":"yellow","size":120,"pop":true,"at":0.3}]},
+ {"type":"text","say":"And almost total darkness below it. Fire on a wooden ship was dangerous.","heading":"BELOW DECK","y":620,"lines":[{"t":"PITCH","color":"muted","size":120},{"t":"BLACK","color":"muted","size":120,"at":0.3}],"sub":"fire on a wooden ship = danger","sub_at":2.0},
+ {"type":"counter","say":"Going from bright light to darkness, your eyes can need up to twenty-five minutes to adjust.","top":"YOUR EYES NEED UP TO","value":25,"suffix":" MIN","label":"to adjust to darkness","count_time":1.2},
+ {"type":"stamps","say":"So here's the theory. Keep one eye covered, already used to the dark.","heading":"THE THEORY","items":[{"t":"PATCH ON","color":"cyan","at":0.9},{"t":"EYE STAYS DARK","color":"yellow","at":2.0}]},
+ {"type":"text","say":"Then, when you go below deck, flip the patch. And see instantly.","y":600,"lines":[{"t":"FLIP THE PATCH","color":"white","size":96},{"t":"SEE IN THE DARK","color":"yellow","size":96,"pop":true,"at":1.6}]},
+ {"type":"stamps","say":"MythBusters tested it and called it plausible. But there's no historical proof pirates actually did it.","heading":"THE VERDICT","items":[{"t":["MYTHBUSTERS:","PLAUSIBLE"],"color":"cyan","at":0.6}],"y":680,"sub":"but no historical proof","sub_y":1020,"sub_at":2.6,"pause":0.5},
+ {"type":"buttons","say":"Genius trick, or Hollywood myth?","lines":[{"t":"GENIUS TRICK","color":"white","size":88},{"t":"OR HOLLYWOOD MYTH?","color":"yellow","size":80}],"options":["GENIUS","MYTH"],"hold":1.5}
+]}
