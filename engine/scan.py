@@ -29,8 +29,10 @@ def resolve(ref):
     ref = ref.strip()
     v = re.search(r'(?:v=|youtu\.be/|/shorts/|/live/)([A-Za-z0-9_-]{11})', ref)
     if v:
-        it = get('videos', part='snippet', id=v.group(1))['items']
-        return it[0]['snippet']['channelId'] if it else None
+        r = get('videos', part='snippet', id=v.group(1))
+        it = r.get('items', [])
+        if not it: raise RuntimeError(f'video lookup empty for {v.group(1)}: {json.dumps(r)[:500]}')
+        return it[0]['snippet']['channelId']
     c = re.search(r'(UC[A-Za-z0-9_-]{22})', ref)
     if c: return c.group(1)
     h = re.search(r'@([A-Za-z0-9._-]+)', ref)
@@ -62,7 +64,7 @@ def transcript(video_id):
 
 def scan(ref):
     cid = resolve(ref)
-    if not cid: raise SystemExit(f'Could not resolve channel: {ref}')
+    if not cid: raise RuntimeError(f'Could not resolve channel: {ref}')
     ch = get('channels', part='snippet,statistics,contentDetails,brandingSettings', id=cid)['items'][0]
     uploads = ch['contentDetails']['relatedPlaylists']['uploads']
     ids, token = [], None
@@ -146,7 +148,7 @@ if __name__ == '__main__':
         try:
             if not KEY: raise RuntimeError('YOUTUBE_API_KEY secret is missing or empty in GitHub')
             r = scan(open(req).read().strip())
-        except Exception as e:
+        except BaseException as e:
             body = ''
             if hasattr(e, 'read'):
                 try: body = e.read().decode()[:1500]
