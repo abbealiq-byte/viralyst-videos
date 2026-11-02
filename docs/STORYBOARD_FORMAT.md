@@ -29,3 +29,12 @@ yellow, white, muted, grey. Lines: `[{"t": "TEXT", "color": "yellow", "size": 96
 
 Recipe that works: hook first (most shocking line, no heading, brand hidden), tension in
 the middle, payoff last, then a two-sided question with `buttons`. 25-40 s total.
+
+# Channel scanner (for Claude)
+
+Free YouTube Data API v3 via GitHub Actions (secret YOUTUBE_API_KEY). Put one channel
+reference (@handle, channel URL, UC... id, or any video URL) in `scans/requests/<name>.txt`
+and push. Results land in `scans/results/<name>.json` (all videos + stats, top 10, top 5
+recent outliers with top comments, best-effort transcripts) and `<name>.md` (summary).
+Errors land in `<name>.error.txt`. To re-scan, delete the old result first or use a new name
+(e.g. `viralyst-2026-11-09`). Own channel: `scans/requests/viralyst.txt`.
