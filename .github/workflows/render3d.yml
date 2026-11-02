@@ -1,0 +1,63 @@
+name: Render 3D video
+
+on:
+  push:
+    paths:
+      - "blender/ACTIVE"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: true
+      matrix:
+        idx: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: System libraries
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq libxi6 libxxf86vm1 libxfixes3 libxrender1 libgl1 libsm6 libxkbcommon0 libegl1
+      - run: pip install -q "bpy==4.2.*"
+      - name: Render chunk
+        run: python blender/run_chunk.py "$(cat blender/ACTIVE)" ${{ matrix.idx }} 12 540 960 8
+      - uses: actions/upload-artifact@v4
+        with:
+          name: frames-${{ matrix.idx }}
+          path: frames/
+          if-no-files-found: ignore
+
+  compose:
+    needs: render
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/download-artifact@v4
+        with:
+          path: parts
+      - name: Compose video
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu-core
+          pip install -q pillow
+          P="$(cat blender/ACTIVE)"
+          mkdir -p frames videos && cp parts/*/f_*.png frames/
+          ls frames | wc -l
+          python blender/compose.py "$P" frames "videos/3d_$P.mp4"
+      - name: Commit
+        run: |
+          git config user.name "Viralyst 3D"
+          git config user.email "viralyst@users.noreply.github.com"
+          git add videos
+          git commit -m "3D video render [skip ci]" || exit 0
+          git pull --rebase && git push

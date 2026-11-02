@@ -1,0 +1,62 @@
+{
+ "fps": 24,
+ "total": 29.889,
+ "segments": [
+  {
+   "name": "hook",
+   "say": "You're about to yawn. And you can't stop it.",
+   "start": 0.0,
+   "end": 2.716,
+   "speech": 2.216
+  },
+  {
+   "name": "copy",
+   "say": "When you see someone yawn, your brain copies it. Automatically.",
+   "start": 2.716,
+   "end": 6.109,
+   "speech": 3.043
+  },
+  {
+   "name": "resist",
+   "say": "Scientists tested it. Trying not to yawn only makes the urge stronger.",
+   "start": 6.109,
+   "end": 9.998,
+   "speech": 3.538
+  },
+  {
+   "name": "kids",
+   "say": "Little kids don't catch yawns at all. It only starts around age four or five.",
+   "start": 9.998,
+   "end": 14.436,
+   "speech": 4.089
+  },
+  {
+   "name": "dog",
+   "say": "Even dogs catch yawns from humans. Especially from their owners.",
+   "start": 14.436,
+   "end": 18.274,
+   "speech": 3.488
+  },
+  {
+   "name": "chain",
+   "say": "And it spreads faster between friends and family than between strangers.",
+   "start": 18.274,
+   "end": 22.073,
+   "speech": 3.449
+  },
+  {
+   "name": "why",
+   "say": "But why does it happen? Scientists still don't fully agree.",
+   "start": 22.073,
+   "end": 25.344,
+   "speech": 2.772
+  },
+  {
+   "name": "payoff",
+   "say": "Even reading about it works. So, did you just yawn?",
+   "start": 25.344,
+   "end": 29.889,
+   "speech": 2.395
+  }
+ ]
+}
