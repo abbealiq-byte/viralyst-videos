@@ -1,0 +1,10 @@
+{"title":"The Bird That Copies Chainsaws","speed":1.1,"scenes":[
+ {"type":"text","say":"This bird can sound exactly like a chainsaw.","y":560,"lines":[{"t":"THIS BIRD","color":"white","size":110},{"t":"SOUNDS LIKE","color":"white","size":100,"at":0.5},{"t":"A CHAINSAW","color":"pink","size":120,"pop":true,"at":1.4}]},
+ {"type":"text","say":"Meet the lyrebird, from the forests of Australia.","heading":"MEET THE","y":620,"lines":[{"t":"LYREBIRD","color":"cyan","size":140,"pop":true}],"sub":"Australia","sub_at":1.2},
+ {"type":"counter","say":"Males sing to impress females, copying the calls of more than twenty other bird species.","top":"IT COPIES","value":20,"suffix":"+","label":"other bird species","color":"cyan"},
+ {"type":"stamps","say":"But it doesn't stop at birds. Camera shutters. Car alarms.","heading":"AND ALSO...","items":[{"t":"CAMERA SHUTTERS","color":"yellow","at":1.4},{"t":"CAR ALARMS","color":"cyan","at":2.4}]},
+ {"type":"stamps","say":"And yes. Chainsaws.","heading":"AND YES...","items":[{"t":"CHAINSAWS","color":"pink","at":0.5}],"y":700},
+ {"type":"text","say":"It copies whatever it hears around it.","y":620,"lines":[{"t":"IT COPIES","color":"white","size":110},{"t":"WHAT IT HEARS","color":"yellow","size":110,"pop":true,"at":0.8}]},
+ {"type":"text","say":"Which means some lyrebirds are singing the sound of chainsaws, cutting down the forests they live in.","heading":"THE SAD PART","y":580,"lines":[{"t":"THE SOUND OF","color":"white","size":90},{"t":"ITS OWN FOREST","color":"pink","size":100,"at":2.8},{"t":"BEING CUT DOWN","color":"pink","size":100,"at":3.4}],"pause":0.6},
+ {"type":"buttons","say":"Cool, or kind of sad?","lines":[{"t":"COOL,","color":"white","size":110},{"t":"OR KIND OF SAD?","color":"yellow","size":96}],"options":["COOL","SAD"],"hold":1.5}
+]}

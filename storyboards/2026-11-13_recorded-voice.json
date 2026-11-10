@@ -1,0 +1,10 @@
+{"title":"Why Your Voice Sounds Weird On Recordings","speed":1.1,"scenes":[
+ {"type":"text","say":"Ever cringed at your own voice on a recording? There's a reason.","y":560,"lines":[{"t":"YOUR VOICE","color":"white","size":110},{"t":"ON A RECORDING?","color":"white","size":96,"at":0.6},{"t":"CRINGE.","color":"pink","size":140,"pop":true,"at":1.8}]},
+ {"type":"text","say":"When you talk, you hear your own voice in two different ways.","y":620,"lines":[{"t":"YOU HEAR YOURSELF","color":"white","size":96},{"t":"TWO WAYS","color":"yellow","size":130,"pop":true,"at":1.6}]},
+ {"type":"stamps","say":"Through the air, like everyone else. And through the bones in your skull.","heading":"TWO PATHS","items":[{"t":"THROUGH THE AIR","color":"cyan","at":0.4},{"t":"THROUGH YOUR BONES","color":"pink","at":2.2}]},
+ {"type":"text","say":"Your bones boost the low notes, so in your own head, you sound deeper and richer.","heading":"IN YOUR HEAD","y":620,"lines":[{"t":"DEEPER","color":"yellow","size":130,"pop":true,"at":2.4},{"t":"AND RICHER","color":"white","size":110,"at":3.0}]},
+ {"type":"text","say":"A recording only picks up the air. So it sounds higher, and thinner.","heading":"ON A RECORDING","y":620,"lines":[{"t":"AIR ONLY","color":"cyan","size":120},{"t":"HIGHER + THINNER","color":"white","size":96,"at":2.0}]},
+ {"type":"stamps","say":"That shock even has a name: voice confrontation.","heading":"IT HAS A NAME","items":[{"t":["VOICE","CONFRONTATION"],"color":"yellow","at":1.2}],"y":700},
+ {"type":"text","say":"And the twist? The recording is what everyone else hears. Every day.","heading":"THE TWIST","y":600,"lines":[{"t":"THE RECORDING","color":"white","size":104},{"t":"IS WHAT","color":"white","size":104,"at":1.2},{"t":"EVERYONE HEARS","color":"pink","size":104,"pop":true,"at":1.8}],"pause":0.6},
+ {"type":"buttons","say":"Do you hate your recorded voice?","lines":[{"t":"DO YOU HATE","color":"white","size":96},{"t":"YOUR RECORDED VOICE?","color":"yellow","size":80}],"options":["YES","NO"],"hold":1.5}
+]}

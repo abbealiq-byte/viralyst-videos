@@ -1,0 +1,10 @@
+{"title":"How GPS Needs Einstein","speed":1.1,"scenes":[
+ {"type":"text","say":"Without Einstein, your GPS would drift about ten kilometers every day.","y":560,"lines":[{"t":"WITHOUT EINSTEIN","color":"white","size":96},{"t":"YOUR GPS WOULD BE","color":"white","size":84,"at":0.6},{"t":"10 KM OFF","color":"pink","size":140,"pop":true,"at":2.2}]},
+ {"type":"text","say":"GPS works by timing signals from satellites, using super precise atomic clocks.","heading":"HOW GPS WORKS","y":620,"lines":[{"t":"ATOMIC CLOCKS","color":"cyan","size":110,"pop":true},{"t":"IN SPACE","color":"white","size":110,"at":0.6}]},
+ {"type":"counter","say":"But the satellites move so fast that their clocks run slower, by about seven microseconds a day.","top":"SPEED SLOWS TIME","prefix":"-","value":7,"suffix":" \u00b5s","label":"per day","color":"cyan"},
+ {"type":"counter","say":"And up there, gravity is weaker, which makes clocks run faster, by about forty-five microseconds.","top":"WEAK GRAVITY SPEEDS IT","prefix":"+","value":45,"suffix":" \u00b5s","label":"per day","color":"pink"},
+ {"type":"counter","say":"Together, the satellite clocks gain about thirty-eight millionths of a second, every day.","top":"TOGETHER","prefix":"+","value":38,"suffix":" \u00b5s","label":"every single day"},
+ {"type":"text","say":"Sounds tiny. But the signals travel at the speed of light, so that adds up to around ten kilometers of error. Every day.","heading":"SOUNDS TINY?","y":600,"lines":[{"t":"= ~10 KM ERROR","color":"pink","size":110,"pop":true,"at":2.6},{"t":"EVERY DAY","color":"white","size":100,"at":4.2}]},
+ {"type":"stamps","say":"So engineers set the satellite clocks to tick slightly slower before launch. Einstein's theory, fixing your map every day.","heading":"THE FIX","items":[{"t":["CORRECTED","BEFORE LAUNCH"],"color":"cyan","at":1.6}],"y":700,"pause":0.5},
+ {"type":"buttons","say":"Did you know your phone needs relativity?","lines":[{"t":"DID YOU KNOW?","color":"white","size":100},{"t":"YOUR PHONE NEEDS EINSTEIN","color":"yellow","size":70}],"options":["KNEW IT","NO IDEA"],"hold":1.5}
+]}

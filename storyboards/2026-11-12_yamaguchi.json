@@ -1,0 +1,10 @@
+{"title":"He Survived Both Atomic Bombs","speed":1.04,"scenes":[
+ {"type":"text","say":"This man survived two atomic bombs.","y":600,"lines":[{"t":"HE SURVIVED","color":"white","size":110},{"t":"TWO ATOMIC BOMBS","color":"yellow","size":100,"pop":true,"at":1.0}]},
+ {"type":"text","say":"In August 1945, engineer Tsutomu Yamaguchi was in Hiroshima on a business trip.","heading":"AUGUST 6, 1945","y":620,"lines":[{"t":"HIROSHIMA","color":"white","size":130}],"sub":"Tsutomu Yamaguchi, on a business trip","sub_at":2.0},
+ {"type":"text","say":"When the bomb exploded, he was badly burned. But he survived.","y":620,"lines":[{"t":"BADLY BURNED","color":"pink","size":110},{"t":"BUT ALIVE","color":"white","size":120,"at":2.0}]},
+ {"type":"text","say":"Days later, he made it back home, to Nagasaki.","heading":"3 DAYS LATER","y":620,"lines":[{"t":"HOME:","color":"white","size":100},{"t":"NAGASAKI","color":"yellow","size":130,"pop":true,"at":1.4}]},
+ {"type":"stamps","say":"He was telling his boss what one bomb had done to Hiroshima, when the second one exploded over Nagasaki.","heading":"AUGUST 9, 1945","items":[{"t":["A SECOND","BOMB"],"color":"pink","at":3.4}],"y":700},
+ {"type":"text","say":"He survived again. And lived to be ninety-three.","y":620,"lines":[{"t":"HE SURVIVED","color":"white","size":110},{"t":"AGAIN","color":"cyan","size":140,"pop":true,"at":0.8}],"sub":"lived to 93","sub_at":1.8},
+ {"type":"text","say":"He's the only person ever officially recognized as a survivor of both bombings. He spent his later years calling for an end to nuclear weapons.","heading":"THE ONLY ONE","y":600,"lines":[{"t":"OFFICIALLY","color":"white","size":100},{"t":"RECOGNIZED","color":"yellow","size":110,"at":0.4}],"sub":"he campaigned against nuclear weapons","sub_at":4.0,"pause":0.6},
+ {"type":"buttons","say":"Luck, or destiny?","lines":[{"t":"LUCK,","color":"white","size":110},{"t":"OR DESTINY?","color":"yellow","size":110}],"options":["LUCK","DESTINY"],"hold":1.5}
+]}

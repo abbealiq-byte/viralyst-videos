@@ -104,9 +104,12 @@ def s_quote(dr,img,sc,lt,dur):
 def s_counter(dr,img,sc,lt,dur):
     heading(dr,sc.get('heading'),lt)
     if sc.get('top'): ctext(dr,sc['top'],fit(dr,sc['top'],100),480,fade(WH,ease(lt/0.3)))
-    v=sc['value']; dec=sc.get('decimals',0); p=ease((lt-0.15)/sc.get('count_time',1.3))
-    val=v*p; s=f"{sc.get('prefix','')}{val:,.{dec}f}{sc.get('suffix','')}"
-    ctext(dr,s,fit(dr,sc.get('prefix','')+f"{v:,.{dec}f}"+sc.get('suffix',''),200),720,C(sc.get('color'),YL))
+    v=sc['value']; dec=sc.get('decimals',0)
+    s=f"{sc.get('prefix','')}{v:,.{dec}f}{sc.get('suffix','')}"
+    p=back((lt-0.1)/0.3)
+    if p>0.02:
+        f0=fit(dr,s,200); f=F(max(20,int(f0.size*(0.55+0.45*p))))
+        ctext(dr,s,f,720,C(sc.get('color'),YL))
     sub(dr,sc.get('label'),lt,880,at=0.4,col=WH,size=52)
     sub(dr,sc.get('sub'),lt,970,at=1.2)
     if sc.get('stopwatch'):

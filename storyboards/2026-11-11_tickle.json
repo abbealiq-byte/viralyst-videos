@@ -1,0 +1,10 @@
+{"title":"Why You Can't Tickle Yourself","speed":1.1,"scenes":[
+ {"type":"text","say":"Try to tickle yourself right now. It doesn't work.","y":560,"lines":[{"t":"TRY TO TICKLE","color":"white","size":100},{"t":"YOURSELF","color":"white","size":110,"at":0.4},{"t":"IT DOESN'T WORK.","color":"pink","size":100,"pop":true,"at":1.7}]},
+ {"type":"text","say":"Your brain is the reason.","y":620,"lines":[{"t":"YOUR BRAIN","color":"yellow","size":130,"pop":true},{"t":"IS THE REASON","color":"white","size":96,"at":0.5}]},
+ {"type":"text","say":"A part at the back called the cerebellum predicts the feeling of every move you make.","heading":"MEET THE","y":600,"lines":[{"t":"CEREBELLUM","color":"cyan","size":120,"pop":true},{"t":"PREDICTS YOUR MOVES","color":"white","size":84,"at":2.0}]},
+ {"type":"stamps","say":"So when you tickle yourself, it already knows what's coming, and turns the feeling down.","heading":"SELF-TICKLE","items":[{"t":"PREDICTED","color":"yellow","at":1.4},{"t":"TURNED DOWN","color":"pink","at":3.0}]},
+ {"type":"text","say":"When someone else does it, your brain can't predict it. That's why it tickles.","heading":"SOMEONE ELSE","y":600,"lines":[{"t":"UNPREDICTABLE","color":"white","size":104},{"t":"= TICKLES","color":"cyan","size":130,"pop":true,"at":2.6}]},
+ {"type":"counter","say":"So scientists built a robot that delayed your own tickle by a fraction of a second.","top":"ROBOT DELAY","value":0.2,"decimals":1,"suffix":" SEC","label":"a fraction of a second"},
+ {"type":"text","say":"And suddenly, it tickled. The longer the delay, the more it tickled.","heading":"THE RESULT","y":600,"lines":[{"t":"IT TICKLED","color":"yellow","size":120,"pop":true},{"t":"LONGER DELAY","color":"white","size":90,"at":1.6},{"t":"= MORE TICKLY","color":"white","size":90,"at":2.2}],"pause":0.5},
+ {"type":"buttons","say":"Are you super ticklish?","lines":[{"t":"ARE YOU SUPER","color":"white","size":96},{"t":"TICKLISH?","color":"yellow","size":110}],"options":["YES","NOT AT ALL"],"hold":1.5}
+]}

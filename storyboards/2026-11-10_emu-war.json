@@ -1,0 +1,10 @@
+{"title":"The War Australia Lost To Birds","speed":1.1,"scenes":[
+ {"type":"text","say":"In 1932, Australia went to war against birds. And lost.","y":540,"lines":[{"t":"1932","color":"yellow","size":150,"pop":true},{"t":"AUSTRALIA VS BIRDS","color":"white","size":84,"at":0.6},{"t":"AND LOST.","color":"pink","size":130,"pop":true,"at":2.4}]},
+ {"type":"counter","say":"About twenty thousand emus were eating the wheat on farms in Western Australia.","top":"THE ENEMY","value":20000,"suffix":" EMUS","label":"eating the farmers' wheat"},
+ {"type":"stamps","say":"So the army sent soldiers, two machine guns, and ten thousand rounds of ammunition.","heading":"THE ARMY ARRIVES","items":[{"t":"2 MACHINE GUNS","color":"cyan","at":1.2},{"t":"10,000 ROUNDS","color":"yellow","at":2.6}]},
+ {"type":"text","say":"But every time they opened fire, the emus split up and ran.","y":620,"lines":[{"t":"THE EMUS","color":"white","size":110},{"t":"SPLIT UP AND RAN","color":"cyan","size":96,"pop":true,"at":1.6}]},
+ {"type":"quote","say":"The commanding major later said: they can face machine guns with the invulnerability of tanks.","lines":[{"t":"THEY CAN FACE","color":"white","size":80},{"t":"MACHINE GUNS LIKE","color":"white","size":80},{"t":"TANKS.\u201d","color":"yellow","size":110}],"by":"\u2014 Major G.P.W. Meredith, 1932"},
+ {"type":"counter","say":"In the end, they fired nearly ten thousand rounds and killed fewer than a thousand emus. About ten bullets per bird.","top":"ROUGHLY","value":10,"suffix":" BULLETS","label":"per emu","sub":"9,860 rounds, 986 emus"},
+ {"type":"stamps","say":"And the emu population? Barely affected.","heading":"THE RESULT","items":[{"t":["EMUS:","STILL THERE"],"color":"pink","at":1.0}],"y":700,"pause":0.5},
+ {"type":"buttons","say":"So who really won?","lines":[{"t":"WHO REALLY","color":"white","size":100},{"t":"WON?","color":"yellow","size":120}],"options":["EMUS","ARMY"],"hold":1.5}
+]}

@@ -1,0 +1,10 @@
+{"title":"The Animal That Can Live Forever","speed":1.1,"scenes":[
+ {"type":"text","say":"This animal can turn back into a baby. Over and over again.","y":560,"lines":[{"t":"THIS ANIMAL","color":"white","size":100},{"t":"TURNS BACK","color":"white","size":100,"at":0.5},{"t":"INTO A BABY","color":"pink","size":120,"pop":true,"at":1.2}]},
+ {"type":"text","say":"Meet Turritopsis dohrnii, the immortal jellyfish. It's smaller than your fingernail.","heading":"MEET THE","y":600,"lines":[{"t":"IMMORTAL","color":"cyan","size":120,"pop":true},{"t":"JELLYFISH","color":"cyan","size":120,"pop":true,"at":0.3}],"sub":"about 4.5 mm wide","sub_at":2.6},
+ {"type":"text","say":"Most jellyfish grow up, reproduce, and die.","heading":"NORMAL JELLYFISH","y":600,"lines":[{"t":"GROW UP","color":"white","size":96},{"t":"REPRODUCE","color":"white","size":96,"at":0.6},{"t":"DIE","color":"muted","size":110,"at":1.4}]},
+ {"type":"text","say":"But when this one is injured, starving, or stressed, it shrinks, and sinks to the bottom.","heading":"BUT THIS ONE...","y":600,"lines":[{"t":"INJURED?","color":"white","size":90},{"t":"STARVING?","color":"white","size":90,"at":0.6},{"t":"IT SHRINKS","color":"yellow","size":110,"pop":true,"at":2.6}]},
+ {"type":"stamps","say":"Then it turns back into its baby form, a polyp. And grows up all over again.","heading":"REWIND","items":[{"t":"BACK TO BABY","color":"cyan","at":0.4},{"t":"GROWS UP AGAIN","color":"yellow","at":2.4}]},
+ {"type":"text","say":"Scientists haven't found any natural limit to how many times it can do this.","y":620,"lines":[{"t":"NO KNOWN","color":"white","size":120},{"t":"LIMIT","color":"pink","size":150,"pop":true,"at":1.6}]},
+ {"type":"stamps","say":"But it's not truly immortal. It can still get eaten.","heading":"THE CATCH","items":[{"t":["CAN STILL","GET EATEN"],"color":"pink","at":1.0}],"y":700,"pause":0.5},
+ {"type":"buttons","say":"Would you want to live forever?","lines":[{"t":"WOULD YOU WANT","color":"white","size":90},{"t":"TO LIVE FOREVER?","color":"yellow","size":90}],"options":["YES","NO"],"hold":1.5}
+]}
