@@ -1,0 +1,10 @@
+{"title":"Why We Get Goosebumps","speed":1.1,"scenes":[
+ {"type":"text","say":"Goosebumps are left over from when our ancestors had fur.","y":580,"lines":[{"t":"GOOSEBUMPS","color":"white","size":120},{"t":"ARE LEFTOVERS","color":"yellow","size":110,"pop":true,"at":1.2}]},
+ {"type":"text","say":"Every hair on your body has a tiny muscle attached.","heading":"ZOOM IN","y":620,"lines":[{"t":"EVERY HAIR","color":"white","size":110},{"t":"HAS A MUSCLE","color":"cyan","size":110,"pop":true,"at":1.0}]},
+ {"type":"text","say":"When you're cold or scared, those muscles pull the hairs up. And the skin around them bumps up too.","heading":"COLD OR SCARED","y":600,"lines":[{"t":"HAIRS STAND UP","color":"yellow","size":104,"pop":true,"at":1.6},{"t":"SKIN BUMPS UP","color":"white","size":100,"at":3.6}]},
+ {"type":"stamps","say":"For furry animals, that's useful. Fluffed-up fur traps heat. And makes you look bigger to enemies.","heading":"FOR FURRY ANIMALS","items":[{"t":"TRAPS HEAT","color":"cyan","at":1.6},{"t":"LOOKS BIGGER","color":"pink","at":3.4}]},
+ {"type":"text","say":"Think of a cat puffing up when it's scared.","y":620,"lines":[{"t":"THE SCARED","color":"white","size":110},{"t":"CAT PUFF","color":"yellow","size":140,"pop":true,"at":0.8}]},
+ {"type":"text","say":"Even porcupine quills are special hairs, raised by the same kind of muscle.","heading":"EVEN PORCUPINES","y":620,"lines":[{"t":"QUILLS =","color":"white","size":110},{"t":"SPECIAL HAIRS","color":"cyan","size":110,"pop":true,"at":1.4}]},
+ {"type":"text","say":"We lost most of our fur. But the reflex stayed. Which is why a great song can still give you chills.","heading":"THE TWIST","y":600,"lines":[{"t":"FUR: GONE","color":"muted","size":110},{"t":"REFLEX: STILL HERE","color":"pink","size":96,"pop":true,"at":1.8}],"pause":0.5},
+ {"type":"buttons","say":"What gives you goosebumps?","lines":[{"t":"WHAT GIVES YOU","color":"white","size":96},{"t":"GOOSEBUMPS?","color":"yellow","size":120}],"options":["MUSIC","FEAR"],"hold":1.5}
+]}

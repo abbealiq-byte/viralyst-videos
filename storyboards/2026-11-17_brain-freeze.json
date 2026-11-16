@@ -1,0 +1,10 @@
+{"title":"Why You Get Brain Freeze","speed":1.1,"scenes":[
+ {"type":"text","say":"Brain freeze has nothing to do with your brain freezing.","y":600,"lines":[{"t":"BRAIN FREEZE?","color":"white","size":110},{"t":"YOUR BRAIN IS FINE","color":"pink","size":96,"pop":true,"at":1.4}]},
+ {"type":"text","say":"It starts on the roof of your mouth.","heading":"THE REAL SPOT","y":620,"lines":[{"t":"THE ROOF","color":"cyan","size":120,"pop":true},{"t":"OF YOUR MOUTH","color":"white","size":100,"at":0.6}]},
+ {"type":"stamps","say":"Something cold hits it. The blood vessels there squeeze tight, then suddenly widen again.","heading":"WHAT HAPPENS","items":[{"t":"SQUEEZE","color":"cyan","at":1.2},{"t":"THEN WIDEN","color":"pink","at":3.0}]},
+ {"type":"text","say":"A nerve picks that up. But your brain can't tell where it's coming from, so you feel it in your forehead.","heading":"THE MIX-UP","y":600,"lines":[{"t":"YOU FEEL IT","color":"white","size":104},{"t":"IN YOUR FOREHEAD","color":"yellow","size":96,"pop":true,"at":3.6}]},
+ {"type":"text","say":"Doctors even have a name for it. Sphenopalatine ganglioneuralgia.","heading":"OFFICIAL NAME","y":600,"lines":[{"t":"SPHENOPALATINE","color":"cyan","size":84},{"t":"GANGLIONEURALGIA","color":"cyan","size":76,"at":0.8}]},
+ {"type":"stamps","say":"The fix? Press your tongue to the roof of your mouth to warm it up.","heading":"THE FIX","items":[{"t":["TONGUE TO","THE ROOF"],"color":"yellow","at":1.4}],"y":700},
+ {"type":"text","say":"Or just eat your ice cream slower.","y":620,"lines":[{"t":"OR JUST","color":"white","size":110},{"t":"EAT SLOWER","color":"pink","size":130,"pop":true,"at":0.6}],"pause":0.5},
+ {"type":"buttons","say":"Did you know brain freeze starts in your mouth?","lines":[{"t":"DID YOU KNOW","color":"white","size":100},{"t":"IT STARTS IN YOUR MOUTH?","color":"yellow","size":76}],"options":["KNEW IT","NO IDEA"],"hold":1.5}
+]}

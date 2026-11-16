@@ -1,0 +1,10 @@
+{"title":"How Cats Always Land On Their Feet","speed":1.1,"scenes":[
+ {"type":"text","say":"Cats may survive high falls better than medium ones.","y":580,"lines":[{"t":"HIGHER FALL","color":"white","size":110},{"t":"FEWER INJURIES?","color":"pink","size":110,"pop":true,"at":1.2}]},
+ {"type":"text","say":"It starts with a built-in skill called the righting reflex.","heading":"THE SECRET","y":620,"lines":[{"t":"THE RIGHTING","color":"cyan","size":110},{"t":"REFLEX","color":"cyan","size":140,"pop":true,"at":0.4}]},
+ {"type":"stamps","say":"Mid-air, a cat turns its head first, then twists its front half, then its back half.","heading":"MID-AIR","items":[{"t":"1. HEAD","color":"yellow","at":0.6},{"t":"2. FRONT","color":"cyan","at":1.6},{"t":"3. BACK","color":"pink","at":2.6}]},
+ {"type":"counter","say":"Kittens start doing it at just a few weeks old.","top":"KITTENS LEARN IT AT","value":3,"suffix":" WEEKS","label":"and master it by about 7"},
+ {"type":"counter","say":"In a famous 1987 study of cats that fell from New York buildings, about nine in ten survived.","top":"1987 NEW YORK STUDY","value":90,"suffix":"%","label":"of fallen cats survived"},
+ {"type":"text","say":"And above about seven floors, injuries seemed to go down. The theory: the cat relaxes and spreads out, like a tiny parachute.","heading":"ABOVE 7 FLOORS","y":600,"lines":[{"t":"THE CAT RELAXES","color":"white","size":96},{"t":"LIKE A PARACHUTE","color":"yellow","size":100,"pop":true,"at":3.4}]},
+ {"type":"stamps","say":"But careful. Cats that died in falls may never have reached the vet. So scientists still debate it. Keep your windows closed.","heading":"THE CATCH","items":[{"t":["STILL","DEBATED"],"color":"pink","at":2.6}],"y":700,"sub":"keep windows closed","sub_y":1020,"sub_at":4.0,"pause":0.5},
+ {"type":"buttons","say":"Has your cat ever survived a crazy fall?","lines":[{"t":"HAS YOUR CAT","color":"white","size":100},{"t":"SURVIVED A FALL?","color":"yellow","size":96}],"options":["YES","NO CAT"],"hold":1.5}
+]}

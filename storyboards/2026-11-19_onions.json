@@ -1,0 +1,10 @@
+{"title":"Why Onions Make You Cry","speed":1.1,"scenes":[
+ {"type":"text","say":"Onions make you cry on purpose. It's a chemical weapon.","y":580,"lines":[{"t":"ONIONS","color":"white","size":130},{"t":"MAKE YOU CRY","color":"white","size":104,"at":0.5},{"t":"ON PURPOSE","color":"pink","size":120,"pop":true,"at":1.4}]},
+ {"type":"text","say":"Onions grow underground, where animals want to eat them. So they defend themselves.","heading":"THE REASON","y":620,"lines":[{"t":"SELF","color":"cyan","size":120},{"t":"DEFENSE","color":"cyan","size":130,"pop":true,"at":2.6}]},
+ {"type":"stamps","say":"When you cut one, you break open its cells. Chemicals inside mix and turn into a gas.","heading":"WHEN YOU CUT","items":[{"t":"CELLS BREAK","color":"yellow","at":1.0},{"t":"GAS RELEASED","color":"pink","at":3.0}]},
+ {"type":"text","say":"That gas floats up into your eyes, and irritates the nerves there.","y":620,"lines":[{"t":"GAS","color":"white","size":130},{"t":"HITS YOUR EYES","color":"yellow","size":110,"pop":true,"at":1.2}]},
+ {"type":"text","say":"So your eyes flood with tears, to wash it away.","heading":"YOUR DEFENSE","y":620,"lines":[{"t":"TEARS","color":"cyan","size":150,"pop":true},{"t":"TO WASH IT OUT","color":"white","size":96,"at":1.0}]},
+ {"type":"stamps","say":"Want to cry less? Chill the onion first, and use a really sharp knife. Fewer broken cells, less gas.","heading":"THE HACK","items":[{"t":"CHILL IT","color":"cyan","at":1.6},{"t":"SHARP KNIFE","color":"yellow","at":2.8}],"pause":0.4},
+ {"type":"text","say":"Scientists in Japan even grew an onion that doesn't make you cry.","heading":"BONUS","y":620,"lines":[{"t":"A TEARLESS","color":"white","size":110},{"t":"ONION","color":"yellow","size":150,"pop":true,"at":1.2}],"pause":0.5},
+ {"type":"buttons","say":"Do onions make you cry?","lines":[{"t":"DO ONIONS","color":"white","size":110},{"t":"MAKE YOU CRY?","color":"yellow","size":104}],"options":["EVERY TIME","NEVER"],"hold":1.5}
+]}

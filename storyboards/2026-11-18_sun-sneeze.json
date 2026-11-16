@@ -1,0 +1,10 @@
+{"title":"Why Some People Sneeze At Sunlight","speed":1.1,"scenes":[
+ {"type":"text","say":"Some people sneeze when they look at the sun. And it's in their genes.","y":580,"lines":[{"t":"SNEEZE AT","color":"white","size":110},{"t":"THE SUN?","color":"yellow","size":140,"pop":true,"at":0.8},{"t":"IT'S GENETIC","color":"pink","size":96,"at":2.6}]},
+ {"type":"text","say":"It's called the photic sneeze reflex.","heading":"IT HAS A NAME","y":620,"lines":[{"t":"PHOTIC SNEEZE","color":"cyan","size":110,"pop":true},{"t":"REFLEX","color":"cyan","size":120,"at":0.4}]},
+ {"type":"text","say":"Somewhere between one in ten and one in three people have it.","heading":"HOW COMMON?","y":620,"lines":[{"t":"1 IN 10","color":"white","size":120},{"t":"TO 1 IN 3","color":"yellow","size":120,"pop":true,"at":1.4}]},
+ {"type":"stamps","say":"Its other name is honestly perfect. The ACHOO syndrome.","heading":"ITS OTHER NAME","items":[{"t":"A.C.H.O.O.","color":"pink","at":1.4}],"y":700},
+ {"type":"text","say":"Why does it happen? The leading theory: the nerve for your eyes runs close to the nerve that triggers sneezing.","heading":"THE THEORY","y":600,"lines":[{"t":"EYE NERVE","color":"cyan","size":110},{"t":"+ SNEEZE NERVE","color":"pink","size":104,"at":2.4},{"t":"= CROSSED WIRES","color":"yellow","size":100,"pop":true,"at":4.0}]},
+ {"type":"text","say":"Bright light hits your eyes, and the signal spills over.","y":620,"lines":[{"t":"BRIGHT LIGHT","color":"yellow","size":110},{"t":"SIGNAL SPILLS OVER","color":"white","size":90,"at":1.2}]},
+ {"type":"stamps","say":"And it runs in families. If one parent has it, there's about a fifty percent chance you will too.","heading":"THE FAMILY PART","items":[{"t":["~50% CHANCE","FROM ONE PARENT"],"color":"cyan","at":2.0}],"y":700,"pause":0.5},
+ {"type":"buttons","say":"Do you sneeze at the sun?","lines":[{"t":"DO YOU SNEEZE","color":"white","size":100},{"t":"AT THE SUN?","color":"yellow","size":110}],"options":["YES!","NEVER"],"hold":1.5}
+]}

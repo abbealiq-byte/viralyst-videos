@@ -1,0 +1,10 @@
+{"title":"What Really Happens When You Crack Your Knuckles","speed":1.1,"scenes":[
+ {"type":"text","say":"One doctor cracked his knuckles for sixty years, on just one hand. On purpose.","y":560,"lines":[{"t":"60 YEARS","color":"yellow","size":150,"pop":true},{"t":"OF CRACKING","color":"white","size":100,"at":0.8},{"t":"ONE HAND ONLY","color":"pink","size":100,"pop":true,"at":2.4}]},
+ {"type":"text","say":"Everyone's heard it: cracking your knuckles gives you arthritis.","heading":"THE WARNING","y":620,"lines":[{"t":"CRACKING =","color":"white","size":110},{"t":"ARTHRITIS?","color":"pink","size":130,"pop":true,"at":1.4}]},
+ {"type":"text","say":"So what is that pop? Your joints sit in a fluid. When you stretch the joint, a gas bubble forms inside it.","heading":"THE POP","y":600,"lines":[{"t":"JOINT FLUID","color":"cyan","size":110},{"t":"+ A GAS BUBBLE","color":"yellow","size":104,"pop":true,"at":3.2}]},
+ {"type":"text","say":"That's also why you can't crack the same knuckle again right away.","y":620,"lines":[{"t":"WAIT","color":"white","size":130},{"t":"BEFORE THE NEXT POP","color":"yellow","size":84,"at":1.2}]},
+ {"type":"stamps","say":"Doctor Donald Unger tested the myth on himself. He cracked his left hand at least twice a day, and never his right.","heading":"THE EXPERIMENT","items":[{"t":"LEFT: CRACKED","color":"cyan","at":2.0},{"t":"RIGHT: NEVER","color":"pink","at":3.6}]},
+ {"type":"counter","say":"After about sixty years, he compared them.","top":"AFTER","value":60,"suffix":" YEARS","label":"left hand vs right hand"},
+ {"type":"stamps","say":"Neither hand had arthritis. And the study won him an Ig Nobel Prize.","heading":"THE RESULT","items":[{"t":["NO ARTHRITIS","IN EITHER HAND"],"color":"yellow","at":0.6}],"y":700,"sub":"Ig Nobel Prize, 2009","sub_y":1040,"sub_at":2.6,"pause":0.5},
+ {"type":"buttons","say":"Do you crack your knuckles?","lines":[{"t":"DO YOU CRACK","color":"white","size":100},{"t":"YOUR KNUCKLES?","color":"yellow","size":100}],"options":["ALL DAY","NEVER"],"hold":1.5}
+]}

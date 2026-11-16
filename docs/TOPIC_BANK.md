@@ -11,7 +11,7 @@ wrinkly fingers, Roman concrete.
 ## A. Secrets from the past
 | # | Title | Hook / payoff idea | Status |
 |---|---|---|---|
-| 1 | Why Vikings Never Wore Horned Helmets | The look came from 1800s opera costumes, not history | todo |
+| 1 | Why Vikings Never Wore Horned Helmets | The look came from 1800s opera costumes, not history | done (2026-11-16 batch) |
 | 2 | The 2,000-Year-Old Computer Found In A Shipwreck | Antikythera mechanism predicted eclipses | todo |
 | 3 | How Egyptians Moved Giant Stones | Wetting the sand halved the pulling force | todo |
 | 4 | The War Australia Lost To Birds | The Great Emu War, 1932 | done (2026-11-10 batch) |
@@ -32,7 +32,7 @@ wrinkly fingers, Roman concrete.
 | 15 | Why Microwaves Heat Food Unevenly | Standing waves leave cold spots; that's why plates spin | todo |
 | 16 | Why Ice Floats | Water expands when it freezes; if it didn't, lakes freeze solid | todo |
 | 17 | How Touchscreens Know It's Your Finger | Your body conducts electricity; gloves don't | todo |
-| 18 | Why Onions Make You Cry | A gas that turns into a mild acid on your eyes | todo |
+| 18 | Why Onions Make You Cry | A gas that turns into a mild acid on your eyes | done (2026-11-16 batch) |
 | 19 | How Fireworks Get Their Colors | Different metals burn different colors | todo |
 | 20 | Why Popcorn Pops | Water inside turns to steam until the shell bursts | todo |
 | 21 | How GPS Needs Einstein | Satellite clocks drift without relativity corrections | done (2026-11-10 batch) |
@@ -45,7 +45,7 @@ wrinkly fingers, Roman concrete.
 ## C. Extreme animals
 | # | Title | Hook / payoff idea | Status |
 |---|---|---|---|
-| 27 | How Cats Always Land On Their Feet | Righting reflex mid-air | todo |
+| 27 | How Cats Always Land On Their Feet | Righting reflex mid-air | done (2026-11-16 batch) |
 | 28 | The Animal That Can Live Forever | Immortal jellyfish turns back into a baby | done (2026-11-10 batch) |
 | 29 | Why Flamingos Are Pink | They're born grey; it's their food | todo |
 | 30 | The Animal That Survived Outer Space | Tardigrades | todo |
@@ -64,12 +64,12 @@ wrinkly fingers, Roman concrete.
 | 39 | What Happens If You Never Sleep | The 11-day record and what happened | todo |
 | 40 | Why Airplane Food Tastes So Bland | Altitude and dry air dull taste; tomato juice twist | todo |
 | 41 | Why You Can't Tickle Yourself | Your brain predicts your own touch | done (2026-11-10 batch) |
-| 42 | Why You Get Brain Freeze | Blood vessels react to cold on the palate | todo |
+| 42 | Why You Get Brain Freeze | Blood vessels react to cold on the palate | done (2026-11-16 batch) |
 | 43 | Why Your Stomach Growls | It happens even when you're not hungry | todo |
-| 44 | What Really Happens When You Crack Your Knuckles | Gas bubbles; the doctor who cracked one hand for 60 years | todo |
-| 45 | Why We Get Goosebumps | Leftover from fur that puffed up | todo |
+| 44 | What Really Happens When You Crack Your Knuckles | Gas bubbles; the doctor who cracked one hand for 60 years | done (2026-11-16 batch) |
+| 45 | Why We Get Goosebumps | Leftover from fur that puffed up | done (2026-11-16 batch) |
 | 46 | Why Time Speeds Up As You Age | Fewer new memories (theories) | todo |
 | 47 | Why You Forget Things Walking Through A Door | The doorway effect | todo |
 | 48 | Why Your Voice Sounds Weird On Recordings | You normally hear yourself through your bones | done (2026-11-10 batch) |
 | 49 | Why We Hiccup | A reflex we may have inherited from tadpole-like ancestors (theory) | todo |
-| 50 | Why Some People Sneeze At Sunlight | Photic sneeze reflex, runs in families | todo |
+| 50 | Why Some People Sneeze At Sunlight | Photic sneeze reflex, runs in families | done (2026-11-16 batch) |

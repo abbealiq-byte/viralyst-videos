@@ -1,0 +1,170 @@
+{
+ "title": "Why Vikings Never Wore Horned Helmets",
+ "speed": 1.1,
+ "scenes": [
+  {
+   "type": "text",
+   "say": "Vikings never wore horned helmets. That idea came from an opera.",
+   "y": 560,
+   "lines": [
+    {
+     "t": "VIKINGS",
+     "color": "white",
+     "size": 120
+    },
+    {
+     "t": "NO HORNS",
+     "color": "pink",
+     "size": 140,
+     "pop": true,
+     "at": 0.9
+    },
+    {
+     "t": "IT WAS AN OPERA",
+     "color": "yellow",
+     "size": 90,
+     "at": 2.6
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "say": "Archaeologists have found almost no Viking helmets at all.",
+   "heading": "THE EVIDENCE",
+   "y": 620,
+   "lines": [
+    {
+     "t": "ALMOST NO",
+     "color": "white",
+     "size": 110
+    },
+    {
+     "t": "HELMETS FOUND",
+     "color": "cyan",
+     "size": 110,
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "type": "stamps",
+   "say": "The best one, found in Norway in 1943, is a simple rounded iron cap. No horns.",
+   "heading": "GJERMUNDBU, NORWAY",
+   "items": [
+    {
+     "t": "ROUNDED IRON CAP",
+     "color": "cyan",
+     "at": 2.0
+    },
+    {
+     "t": "NO HORNS",
+     "color": "pink",
+     "at": 3.2
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "say": "Horns would also be a terrible idea in battle. Something to grab, and get stuck on.",
+   "heading": "THINK ABOUT IT",
+   "y": 600,
+   "lines": [
+    {
+     "t": "EASY TO GRAB",
+     "color": "white",
+     "size": 104
+    },
+    {
+     "t": "EASY TO HIT",
+     "color": "white",
+     "size": 104,
+     "at": 1.4
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "say": "So where did horns come from? In 1876, a costume designer for Wagner's opera gave his Vikings horned helmets.",
+   "heading": "THE REAL SOURCE",
+   "y": 580,
+   "lines": [
+    {
+     "t": "1876",
+     "color": "yellow",
+     "size": 160,
+     "pop": true,
+     "at": 1.4
+    },
+    {
+     "t": "WAGNER'S OPERA",
+     "color": "pink",
+     "size": 100,
+     "at": 2.8
+    },
+    {
+     "t": "HORNED COSTUMES",
+     "color": "white",
+     "size": 90,
+     "at": 4.2
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "say": "Audiences loved it. And the look stuck for a hundred and fifty years.",
+   "y": 620,
+   "lines": [
+    {
+     "t": "THE LOOK",
+     "color": "white",
+     "size": 110
+    },
+    {
+     "t": "STUCK",
+     "color": "yellow",
+     "size": 150,
+     "pop": true,
+     "at": 1.0
+    }
+   ]
+  },
+  {
+   "type": "stamps",
+   "say": "The twist? Horned helmets did exist in Scandinavia. But about two thousand years before the Vikings, for ceremonies.",
+   "heading": "THE TWIST",
+   "items": [
+    {
+     "t": [
+      "BRONZE AGE",
+      "~2,000 YEARS EARLIER"
+     ],
+     "color": "cyan",
+     "at": 2.6
+    }
+   ],
+   "y": 700,
+   "pause": 0.5
+  },
+  {
+   "type": "buttons",
+   "say": "Did you believe Vikings had horns?",
+   "lines": [
+    {
+     "t": "DID YOU BELIEVE",
+     "color": "white",
+     "size": 96
+    },
+    {
+     "t": "THE HORNS?",
+     "color": "yellow",
+     "size": 110
+    }
+   ],
+   "options": [
+    "YES",
+    "NO"
+   ],
+   "hold": 1.5
+  }
+ ]
+}
