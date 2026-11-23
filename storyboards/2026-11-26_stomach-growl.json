@@ -1,0 +1,10 @@
+{"title":"Why Your Stomach Growls","speed":1.1,"scenes":[
+ {"type":"text","say":"Your stomach doesn't growl because you're hungry. It's cleaning.","y":580,"lines":[{"t":"STOMACH GROWL?","color":"white","size":104},{"t":"IT'S CLEANING","color":"pink","size":120,"pop":true,"at":1.8}]},
+ {"type":"text","say":"Your gut is always squeezing food along, with waves of muscle.","heading":"YOUR GUT","y":620,"lines":[{"t":"MUSCLE","color":"cyan","size":130},{"t":"WAVES","color":"cyan","size":140,"pop":true,"at":0.6}]},
+ {"type":"text","say":"About two hours after your stomach empties, it starts a cleanup wave, to sweep out leftovers and bacteria.","heading":"2 HOURS LATER","y":600,"lines":[{"t":"THE CLEANUP","color":"yellow","size":110,"pop":true},{"t":"WAVE","color":"yellow","size":130,"at":0.4}]},
+ {"type":"text","say":"With no food inside to muffle it, all that air and fluid moving around gets loud.","y":620,"lines":[{"t":"EMPTY =","color":"white","size":120},{"t":"LOUDER","color":"pink","size":150,"pop":true,"at":1.6}]},
+ {"type":"text","say":"Which is why it happens right before lunch. But it can growl on a full stomach too. You just hear it less.","heading":"FULL STOMACH?","y":600,"lines":[{"t":"STILL GROWLS","color":"white","size":110},{"t":"JUST QUIETER","color":"cyan","size":104,"at":3.4}]},
+ {"type":"text","say":"The growl even has an official name, from ancient Greek. Borborygmi.","heading":"OFFICIAL NAME","y":620,"lines":[{"t":"BORBORYGMI","color":"yellow","size":120,"pop":true,"at":2.4}]},
+ {"type":"stamps","say":"And yes, it literally means rumbling.","heading":"IT MEANS","items":[{"t":"\"RUMBLING\"","color":"pink","at":0.6}],"y":700,"pause":0.5},
+ {"type":"buttons","say":"Has your stomach ever growled at the worst moment?","lines":[{"t":"WORST MOMENT","color":"white","size":100},{"t":"IT GROWLED?","color":"yellow","size":110}],"options":["IN CLASS","AT WORK"],"hold":1.5}
+]}

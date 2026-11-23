@@ -1,0 +1,10 @@
+{"title":"Why We Hiccup","speed":1.1,"scenes":[
+ {"type":"text","say":"One man had hiccups for sixty-eight years.","y":580,"lines":[{"t":"HICCUPS FOR","color":"white","size":110},{"t":"68 YEARS","color":"pink","size":150,"pop":true,"at":0.8}]},
+ {"type":"text","say":"A hiccup is your diaphragm, the muscle under your lungs, suddenly yanking down.","heading":"WHAT HAPPENS","y":600,"lines":[{"t":"YOUR DIAPHRAGM","color":"cyan","size":104},{"t":"YANKS DOWN","color":"yellow","size":120,"pop":true,"at":2.6}]},
+ {"type":"stamps","say":"A split second later, your vocal cords snap shut. That's the hic.","heading":"THEN","items":[{"t":"VOCAL CORDS SNAP","color":"pink","at":0.8},{"t":"HIC!","color":"yellow","at":2.4}]},
+ {"type":"text","say":"But why do we have this reflex at all? One theory goes back to tadpoles.","heading":"BUT WHY?","y":600,"lines":[{"t":"BLAME","color":"white","size":110},{"t":"TADPOLES?","color":"cyan","size":140,"pop":true,"at":2.4}]},
+ {"type":"text","say":"Tadpoles breathe water through gills by closing their throat in almost the same move. We may have inherited the switch.","heading":"THE THEORY","y":600,"lines":[{"t":"SAME MOVE","color":"white","size":110},{"t":"INHERITED SWITCH","color":"yellow","size":100,"pop":true,"at":3.8}]},
+ {"type":"text","say":"Another theory: babies hiccup a lot, and it may help push extra air out of the stomach while drinking milk.","heading":"THEORY 2","y":600,"lines":[{"t":"BABY BURP","color":"pink","size":120,"pop":true,"at":1.6},{"t":"BUTTON","color":"white","size":110,"at":2.2}]},
+ {"type":"counter","say":"As for that man, Charles Osborne, he hiccuped from 1922 to 1990. An estimated four hundred thirty million hiccups.","top":"CHARLES OSBORNE","value":430,"suffix":" MILLION","label":"hiccups, 1922 to 1990","pause":0.5},
+ {"type":"buttons","say":"What's your hiccup cure?","lines":[{"t":"WHAT'S YOUR","color":"white","size":110},{"t":"HICCUP CURE?","color":"yellow","size":110}],"options":["WATER","SCARE ME"],"hold":1.5}
+]}

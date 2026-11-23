@@ -1,0 +1,10 @@
+{"title":"Why Time Speeds Up As You Get Older","speed":1.1,"scenes":[
+ {"type":"text","say":"Remember when summer break felt endless? Now a whole year flies by. There's a reason.","y":560,"lines":[{"t":"SUMMER = FOREVER","color":"cyan","size":96},{"t":"NOW A YEAR","color":"white","size":104,"at":2.2},{"t":"FLIES BY","color":"pink","size":130,"pop":true,"at":2.8}]},
+ {"type":"text","say":"Theory one is simple math. When you're five, one year is a fifth of your whole life.","heading":"THEORY 1: MATH","y":600,"lines":[{"t":"AGE 5","color":"white","size":120},{"t":"1 YEAR = 20%","color":"yellow","size":120,"pop":true,"at":2.6}]},
+ {"type":"text","say":"At fifty, it's just two percent. Each year feels smaller.","y":620,"lines":[{"t":"AGE 50","color":"white","size":120},{"t":"1 YEAR = 2%","color":"pink","size":120,"pop":true,"at":1.2}]},
+ {"type":"text","say":"Theory two is about memory. Your brain records new experiences in detail, but skips the routine ones.","heading":"THEORY 2: MEMORY","y":600,"lines":[{"t":"NEW = RECORDED","color":"cyan","size":100},{"t":"ROUTINE = SKIPPED","color":"muted","size":96,"at":3.0}]},
+ {"type":"text","say":"Kids have tons of firsts. Adults repeat the same week. So when you look back, there's less to remember, and the time feels shorter.","y":600,"lines":[{"t":"FEWER NEW MEMORIES","color":"white","size":90},{"t":"= TIME FEELS SHORTER","color":"yellow","size":86,"pop":true,"at":4.2}]},
+ {"type":"text","say":"It's called the holiday paradox. A new trip flies by while you're on it, but feels long when you look back.","heading":"THE HOLIDAY PARADOX","y":600,"lines":[{"t":"FAST NOW","color":"white","size":110},{"t":"LONG LATER","color":"cyan","size":110,"pop":true,"at":3.4}]},
+ {"type":"stamps","say":"So the trick to slowing time down? Do new things. A new route, a new hobby, a new place.","heading":"THE TRICK","items":[{"t":["DO NEW","THINGS"],"color":"yellow","at":1.4}],"y":700,"pause":0.5},
+ {"type":"buttons","say":"Does this year feel like it flew by?","lines":[{"t":"DID THIS YEAR","color":"white","size":100},{"t":"FLY BY?","color":"yellow","size":120}],"options":["SO FAST","NOT REALLY"],"hold":1.5}
+]}

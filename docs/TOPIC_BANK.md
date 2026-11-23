@@ -65,11 +65,16 @@ wrinkly fingers, Roman concrete.
 | 40 | Why Airplane Food Tastes So Bland | Altitude and dry air dull taste; tomato juice twist | todo |
 | 41 | Why You Can't Tickle Yourself | Your brain predicts your own touch | done (2026-11-10 batch) |
 | 42 | Why You Get Brain Freeze | Blood vessels react to cold on the palate | done (2026-11-16 batch) |
-| 43 | Why Your Stomach Growls | It happens even when you're not hungry | todo |
+| 43 | Why Your Stomach Growls | It happens even when you're not hungry | done (2026-11-23 batch) |
 | 44 | What Really Happens When You Crack Your Knuckles | Gas bubbles; the doctor who cracked one hand for 60 years | done (2026-11-16 batch) |
 | 45 | Why We Get Goosebumps | Leftover from fur that puffed up | done (2026-11-16 batch) |
-| 46 | Why Time Speeds Up As You Age | Fewer new memories (theories) | todo |
-| 47 | Why You Forget Things Walking Through A Door | The doorway effect | todo |
+| 46 | Why Time Speeds Up As You Age | Fewer new memories (theories) | done (2026-11-23 batch) |
+| 47 | Why You Forget Things Walking Through A Door | The doorway effect | done (2026-11-23 batch) |
 | 48 | Why Your Voice Sounds Weird On Recordings | You normally hear yourself through your bones | done (2026-11-10 batch) |
-| 49 | Why We Hiccup | A reflex we may have inherited from tadpole-like ancestors (theory) | todo |
+| 49 | Why We Hiccup | A reflex we may have inherited from tadpole-like ancestors (theory) | done (2026-11-23 batch) |
 | 50 | Why Some People Sneeze At Sunlight | Photic sneeze reflex, runs in families | done (2026-11-16 batch) |
+
+## Publishing (from 2026-11-23)
+Metricool free plan = 20 published posts/month (each network counts). Publish via vidIQ instead:
+vidiq_video_upload (raw GitHub URL) -> vidiq_social_post_draft_create (YouTube UCPI4WjYTdcnq1IkVt5mCFOQ + TikTok _00032pYosFBIY720HDiYUR_f_W1cvsSozKq, public, comments on, music confirmed, AI disclosed; set publishAt on EACH destination) -> vidiq_social_post_publish. Free except X.
+Winning filter so far: things the viewer has done and can test right now (fingers 922, voice 564, knuckles 208). War/abstract physics flop.
